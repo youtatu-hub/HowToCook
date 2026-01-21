@@ -2,6 +2,7 @@ import React, { useEffect, useCallback } from 'react';
 import { X, ChevronLeft, ChevronRight } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Recipe } from '@/types';
+import { withBaseUrl } from '@/lib/utils';
 
 interface ImageModalProps {
   isOpen: boolean;
@@ -105,7 +106,7 @@ export const ImageModal: React.FC<ImageModalProps> = ({
               initial={{ opacity: 0, scale: 0.95 }}
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.2 }}
-              src={recipe.imagePath}
+              src={withBaseUrl(recipe.imagePath)}
               alt={recipe.name}
               className="max-h-full max-w-full object-contain rounded-lg shadow-2xl"
               // Add simple swipe detection for mobile could be here, but keeping it simple for now

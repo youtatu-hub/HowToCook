@@ -2,6 +2,7 @@ import React from 'react';
 import { useInView } from 'react-intersection-observer';
 import { motion } from 'framer-motion';
 import { Recipe } from '@/types';
+import { withBaseUrl } from '@/lib/utils';
 
 interface RecipeCardProps {
   recipe: Recipe;
@@ -27,7 +28,7 @@ export const RecipeCard: React.FC<RecipeCardProps> = ({ recipe, onClick }) => {
       <div className="relative overflow-hidden rounded-2xl bg-white shadow-sm hover:shadow-lg transition-shadow duration-300">
         <div ref={ref} className="aspect-[9/16] bg-stone-200 relative">
           <img
-            src={recipe.imagePath}
+            src={withBaseUrl(recipe.imagePath)}
             alt={recipe.name}
             loading="lazy"
             className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"

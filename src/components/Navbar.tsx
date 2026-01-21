@@ -15,7 +15,7 @@ export const Navbar: React.FC = () => {
         
         <div className="flex items-center gap-4">
           <a 
-            href="https://github.com/Anduin2017/HowToCook" 
+            href="https://github.com/king-jingxiang/HowToCook" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-stone-500 hover:text-stone-800 transition-colors text-sm font-medium hidden sm:block"

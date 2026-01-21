@@ -67,7 +67,7 @@ function scanRecipes(): Category[] {
           name,
           category: dir,
           // Store path relative to public
-          imagePath: `/HowToCook/images/dishes/${dir}/${file}`
+          imagePath: `images/dishes/${dir}/${file}`
         });
       }
     }
