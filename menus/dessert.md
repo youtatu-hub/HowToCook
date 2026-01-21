@@ -23,64 +23,64 @@
 
 <a id="反沙芋头"></a>
 ## 反沙芋头
-![](../images/dishes/dessert/反沙芋头.jpeg)
+![](../public/images/dishes/dessert/反沙芋头.jpeg)
 
 <a id="咖啡椰奶冻"></a>
 ## 咖啡椰奶冻
-![](../images/dishes/dessert/咖啡椰奶冻.jpeg)
+![](../public/images/dishes/dessert/咖啡椰奶冻.jpeg)
 
 <a id="奥利奥冰淇淋"></a>
 ## 奥利奥冰淇淋
-![](../images/dishes/dessert/奥利奥冰淇淋.jpeg)
+![](../public/images/dishes/dessert/奥利奥冰淇淋.jpeg)
 
 <a id="戚风蛋糕"></a>
 ## 戚风蛋糕
-![](../images/dishes/dessert/戚风蛋糕.jpeg)
+![](../public/images/dishes/dessert/戚风蛋糕.jpeg)
 
 <a id="提拉米苏"></a>
 ## 提拉米苏
-![](../images/dishes/dessert/提拉米苏.jpeg)
+![](../public/images/dishes/dessert/提拉米苏.jpeg)
 
 <a id="无厨师机蜂蜜面包"></a>
 ## 无厨师机蜂蜜面包
-![](../images/dishes/dessert/无厨师机蜂蜜面包.jpeg)
+![](../public/images/dishes/dessert/无厨师机蜂蜜面包.jpeg)
 
 <a id="炸鲜奶"></a>
 ## 炸鲜奶
-![](../images/dishes/dessert/炸鲜奶.jpeg)
+![](../public/images/dishes/dessert/炸鲜奶.jpeg)
 
 <a id="烤箱版巴斯克芝士蛋糕"></a>
 ## 烤箱版巴斯克芝士蛋糕
-![](../images/dishes/dessert/烤箱版巴斯克芝士蛋糕.jpeg)
+![](../public/images/dishes/dessert/烤箱版巴斯克芝士蛋糕.jpeg)
 
 <a id="烤蛋挞"></a>
 ## 烤蛋挞
-![](../images/dishes/dessert/烤蛋挞.jpeg)
+![](../public/images/dishes/dessert/烤蛋挞.jpeg)
 
 <a id="玛格丽特饼干"></a>
 ## 玛格丽特饼干
-![](../images/dishes/dessert/玛格丽特饼干.jpeg)
+![](../public/images/dishes/dessert/玛格丽特饼干.jpeg)
 
 <a id="红柚蛋糕"></a>
 ## 红柚蛋糕
-![](../images/dishes/dessert/红柚蛋糕.jpeg)
+![](../public/images/dishes/dessert/红柚蛋糕.jpeg)
 
 <a id="芋泥雪媚娘"></a>
 ## 芋泥雪媚娘
-![](../images/dishes/dessert/芋泥雪媚娘.jpeg)
+![](../public/images/dishes/dessert/芋泥雪媚娘.jpeg)
 
 <a id="英式司康"></a>
 ## 英式司康
-![](../images/dishes/dessert/英式司康.jpeg)
+![](../public/images/dishes/dessert/英式司康.jpeg)
 
 <a id="草莓冰淇淋"></a>
 ## 草莓冰淇淋
-![](../images/dishes/dessert/草莓冰淇淋.jpeg)
+![](../public/images/dishes/dessert/草莓冰淇淋.jpeg)
 
 <a id="魔芋蛋糕"></a>
 ## 魔芋蛋糕
-![](../images/dishes/dessert/魔芋蛋糕.jpeg)
+![](../public/images/dishes/dessert/魔芋蛋糕.jpeg)
 
 <a id="龟苓膏"></a>
 ## 龟苓膏
-![](../images/dishes/dessert/龟苓膏.jpeg)
+![](../public/images/dishes/dessert/龟苓膏.jpeg)

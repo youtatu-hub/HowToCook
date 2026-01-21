@@ -28,84 +28,84 @@
 
 <a id="b52轰炸机"></a>
 ## B52轰炸机
-![](../images/dishes/drink/B52轰炸机.jpeg)
+![](../public/images/dishes/drink/B52轰炸机.jpeg)
 
 <a id="mojito莫吉托"></a>
 ## Mojito莫吉托
-![](../images/dishes/drink/Mojito莫吉托.jpeg)
+![](../public/images/dishes/drink/Mojito莫吉托.jpeg)
 
 <a id="冬瓜茶"></a>
 ## 冬瓜茶
-![](../images/dishes/drink/冬瓜茶.jpeg)
+![](../public/images/dishes/drink/冬瓜茶.jpeg)
 
 <a id="冰粉"></a>
 ## 冰粉
-![](../images/dishes/drink/冰粉.jpeg)
+![](../public/images/dishes/drink/冰粉.jpeg)
 
 <a id="可乐桶"></a>
 ## 可乐桶
-![](../images/dishes/drink/可乐桶.jpeg)
+![](../public/images/dishes/drink/可乐桶.jpeg)
 
 <a id="奇异果菠菜特调"></a>
 ## 奇异果菠菜特调
-![](../images/dishes/drink/奇异果菠菜特调.jpeg)
+![](../public/images/dishes/drink/奇异果菠菜特调.jpeg)
 
 <a id="奶茶"></a>
 ## 奶茶
-![](../images/dishes/drink/奶茶.jpeg)
+![](../public/images/dishes/drink/奶茶.jpeg)
 
 <a id="杨枝甘露"></a>
 ## 杨枝甘露
-![](../images/dishes/drink/杨枝甘露.jpeg)
+![](../public/images/dishes/drink/杨枝甘露.jpeg)
 
 <a id="柠檬水"></a>
 ## 柠檬水
-![](../images/dishes/drink/柠檬水.jpeg)
+![](../public/images/dishes/drink/柠檬水.jpeg)
 
 <a id="泰国手标红茶"></a>
 ## 泰国手标红茶
-![](../images/dishes/drink/泰国手标红茶.jpeg)
+![](../public/images/dishes/drink/泰国手标红茶.jpeg)
 
 <a id="海边落日"></a>
 ## 海边落日
-![](../images/dishes/drink/海边落日.jpeg)
+![](../public/images/dishes/drink/海边落日.jpeg)
 
 <a id="百香果橙子特调"></a>
 ## 百香果橙子特调
-![](../images/dishes/drink/百香果橙子特调.jpeg)
+![](../public/images/dishes/drink/百香果橙子特调.jpeg)
 
 <a id="砂糖椰子冰沙"></a>
 ## 砂糖椰子冰沙
-![](../images/dishes/drink/砂糖椰子冰沙.jpeg)
+![](../public/images/dishes/drink/砂糖椰子冰沙.jpeg)
 
 <a id="耙耙柑茶"></a>
 ## 耙耙柑茶
-![](../images/dishes/drink/耙耙柑茶.jpeg)
+![](../public/images/dishes/drink/耙耙柑茶.jpeg)
 
 <a id="菠萝咖啡特调"></a>
 ## 菠萝咖啡特调
-![](../images/dishes/drink/菠萝咖啡特调.jpeg)
+![](../public/images/dishes/drink/菠萝咖啡特调.jpeg)
 
 <a id="酒酿醪糟"></a>
 ## 酒酿醪糟
-![](../images/dishes/drink/酒酿醪糟.jpeg)
+![](../public/images/dishes/drink/酒酿醪糟.jpeg)
 
 <a id="酸梅汤"></a>
 ## 酸梅汤
-![](../images/dishes/drink/酸梅汤.jpeg)
+![](../public/images/dishes/drink/酸梅汤.jpeg)
 
 <a id="酸梅汤半成品加工"></a>
 ## 酸梅汤（半成品加工）
-![](../images/dishes/drink/酸梅汤（半成品加工）.jpeg)
+![](../public/images/dishes/drink/酸梅汤（半成品加工）.jpeg)
 
 <a id="金汤力"></a>
 ## 金汤力
-![](../images/dishes/drink/金汤力.jpeg)
+![](../public/images/dishes/drink/金汤力.jpeg)
 
 <a id="金菲士"></a>
 ## 金菲士
-![](../images/dishes/drink/金菲士.jpeg)
+![](../public/images/dishes/drink/金菲士.jpeg)
 
 <a id="长岛冰茶"></a>
 ## 长岛冰茶
-![](../images/dishes/drink/长岛冰茶.jpeg)
+![](../public/images/dishes/drink/长岛冰茶.jpeg)

@@ -1,9 +1,8 @@
-name: Deploy Pages
+name: Deploy to GitHub Pages
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
   workflow_dispatch:
 
 permissions:
@@ -20,11 +19,30 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      
+      - uses: pnpm/action-setup@v2
         with:
-          lfs: true
-      - uses: actions/upload-pages-artifact@v3
+          version: 8
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          path: .
+          node-version: '18'
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Generate recipe data
+        run: pnpm run generate-recipes
+
+      - name: Build
+        run: pnpm run build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
 
   deploy:
     environment:
