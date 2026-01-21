@@ -9,7 +9,7 @@ interface RecipeCardProps {
 }
 
 export const RecipeCard: React.FC<RecipeCardProps> = ({ recipe, onClick }) => {
-  const { ref,InView } = useInView({
+  const { ref } = useInView({
     triggerOnce: true,
     threshold: 0.1,
   });
