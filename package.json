@@ -9,7 +9,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "check": "tsc -b --noEmit",
-    "generate-recipes": "tsx scripts/generate-recipes.ts"
+    "generate-recipes": "tsx scripts/generate-recipes.ts",
+    "generate-menu-pdfs": "tsx scripts/generate-menu-pdfs.ts"
   },
   "dependencies": {
     "clsx": "^2.1.1",
@@ -35,6 +36,7 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0",
     "postcss": "^8.5.3",
+    "pdf-lib": "^1.17.1",
     "tailwindcss": "^3.4.17",
     "ts-node": "^10.9.2",
     "tsx": "^4.21.0",
