@@ -10,6 +10,7 @@ const IMAGES_DIR = path.join(PROJECT_ROOT, 'public/images/dishes');
 const OUTPUT_FILE = path.join(PROJECT_ROOT, 'src/data/recipes.json');
 
 const CATEGORY_MAP: Record<string, string> = {
+  'tips': '基础操作',
   'vegetable_dish': '素菜',
   'meat_dish': '荤菜',
   'aquatic': '水产',

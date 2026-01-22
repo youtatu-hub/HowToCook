@@ -16,6 +16,7 @@
 
 下面链接对应本项目目录 `menus/` 下的分类 Markdown 文件：
 
+- [基础操作](./menus/dishes/tips.md)
 - [素菜](./menus/vegetable_dish.md)
 - [荤菜](./menus/meat_dish.md)
 - [水产](./menus/aquatic.md)

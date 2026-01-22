@@ -1698,6 +1698,116 @@
     ]
   },
   {
+    "id": "tips",
+    "name": "tips",
+    "displayName": "基础操作",
+    "count": 17,
+    "recipes": [
+      {
+        "id": "tips-厨房准备",
+        "name": "厨房准备",
+        "category": "tips",
+        "imagePath": "images/dishes/tips/厨房准备.jpeg"
+      },
+      {
+        "id": "tips-去腥",
+        "name": "去腥",
+        "category": "tips",
+        "imagePath": "images/dishes/tips/去腥.jpeg"
+      },
+      {
+        "id": "tips-如何选择现在吃什么",
+        "name": "如何选择现在吃什么",
+        "category": "tips",
+        "imagePath": "images/dishes/tips/如何选择现在吃什么.jpeg"
+      },
+      {
+        "id": "tips-学习凉拌",
+        "name": "学习凉拌",
+        "category": "tips",
+        "imagePath": "images/dishes/tips/学习凉拌.jpeg"
+      },
+      {
+        "id": "tips-学习炒与煎",
+        "name": "学习炒与煎",
+        "category": "tips",
+        "imagePath": "images/dishes/tips/学习炒与煎.jpeg"
+      },
+      {
+        "id": "tips-学习焯水",
+        "name": "学习焯水",
+        "category": "tips",
+        "imagePath": "images/dishes/tips/学习焯水.jpeg"
+      },
+      {
+        "id": "tips-学习煮",
+        "name": "学习煮",
+        "category": "tips",
+        "imagePath": "images/dishes/tips/学习煮.jpeg"
+      },
+      {
+        "id": "tips-学习腌",
+        "name": "学习腌",
+        "category": "tips",
+        "imagePath": "images/dishes/tips/学习腌.jpeg"
+      },
+      {
+        "id": "tips-学习蒸",
+        "name": "学习蒸",
+        "category": "tips",
+        "imagePath": "images/dishes/tips/学习蒸.jpeg"
+      },
+      {
+        "id": "tips-微波炉",
+        "name": "微波炉",
+        "category": "tips",
+        "imagePath": "images/dishes/tips/微波炉.jpeg"
+      },
+      {
+        "id": "tips-油温判断技巧",
+        "name": "油温判断技巧",
+        "category": "tips",
+        "imagePath": "images/dishes/tips/油温判断技巧.jpeg"
+      },
+      {
+        "id": "tips-空气炸锅",
+        "name": "空气炸锅",
+        "category": "tips",
+        "imagePath": "images/dishes/tips/空气炸锅.jpeg"
+      },
+      {
+        "id": "tips-糖色的炒制",
+        "name": "糖色的炒制",
+        "category": "tips",
+        "imagePath": "images/dishes/tips/糖色的炒制.jpeg"
+      },
+      {
+        "id": "tips-辅料技巧",
+        "name": "辅料技巧",
+        "category": "tips",
+        "imagePath": "images/dishes/tips/辅料技巧.jpeg"
+      },
+      {
+        "id": "tips-食品安全",
+        "name": "食品安全",
+        "category": "tips",
+        "imagePath": "images/dishes/tips/食品安全.jpeg"
+      },
+      {
+        "id": "tips-食材相克与禁忌",
+        "name": "食材相克与禁忌",
+        "category": "tips",
+        "imagePath": "images/dishes/tips/食材相克与禁忌.jpeg"
+      },
+      {
+        "id": "tips-高级专业术语",
+        "name": "高级专业术语",
+        "category": "tips",
+        "imagePath": "images/dishes/tips/高级专业术语.jpeg"
+      }
+    ]
+  },
+  {
     "id": "vegetable_dish",
     "name": "vegetable_dish",
     "displayName": "素菜",
