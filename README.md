@@ -78,7 +78,7 @@
 # 4k转2k
 pnpm run compress-images -- --quality 92 --height 2752 --overwrite true
 # 2k转1k
-pnpm run compress-images -- --quality 92 --width 1376 --output-dir dist/images-1k --overwrite false
+pnpm run compress-images -- --quality 92 --height 1376 --output-dir dist/images-1k --overwrite false
 ```
 
 ## 后续计划

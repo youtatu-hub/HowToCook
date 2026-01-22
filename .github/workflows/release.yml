@@ -27,7 +27,7 @@ jobs:
       - name: Generate menu PDFs
         run: pnpm run generate-menu-pdfs
       - name: Compress images to 1k
-        run: pnpm run compress-images -- --quality 92 --width 1376 --output-dir dist/images-1k --overwrite false
+        run: pnpm run compress-images -- --quality 92 --height 1376 --output-dir dist/images-1k --overwrite false
       - name: Generate 1k menu PDFs
         run: pnpm run generate-menu-pdfs -- --images-dir dist/images-1k --output-dir dist/menus-pdfs-1k
       - name: Package PDFs
