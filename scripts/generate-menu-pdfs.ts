@@ -9,7 +9,8 @@ const __dirname = path.dirname(__filename);
 
 const PROJECT_ROOT = path.resolve(__dirname, '..');
 const MENUS_DIR = path.join(PROJECT_ROOT, 'menus');
-const OUTPUT_DIR = path.join(PROJECT_ROOT, 'dist/menus-pdfs');
+const DEFAULT_IMAGES_DIR = path.join(PROJECT_ROOT, 'public/images/dishes');
+const DEFAULT_OUTPUT_DIR = path.join(PROJECT_ROOT, 'dist/menus-pdfs');
 const IMAGE_PATTERN = /!\[[^\]]*]\(([^)]+)\)/g;
 const SUPPORTED_EXTENSIONS = new Set(['.jpg', '.jpeg', '.png']);
 const MENU_NAME_MAP: Record<string, string> = {
@@ -69,7 +70,38 @@ function extractImagePaths(markdown: string, menuFile: string): string[] {
   return matches;
 }
 
-async function buildPdfForMenu(menuFile: string) {
+type Options = {
+  outputDir: string;
+  imagesDir: string;
+};
+
+function parseArgs(): Options {
+  const args = process.argv.slice(2);
+  const getArg = (key: string) => {
+    const index = args.findIndex((arg) => arg === key);
+    if (index === -1) return undefined;
+    return args[index + 1];
+  };
+  const outputDir = getArg('--output-dir');
+  const imagesDir = getArg('--images-dir');
+  return {
+    outputDir: outputDir ? path.resolve(PROJECT_ROOT, outputDir) : DEFAULT_OUTPUT_DIR,
+    imagesDir: imagesDir ? path.resolve(PROJECT_ROOT, imagesDir) : DEFAULT_IMAGES_DIR,
+  };
+}
+
+function mapImagePath(imagePath: string, options: Options) {
+  if (options.imagesDir === DEFAULT_IMAGES_DIR) {
+    return imagePath;
+  }
+  const relative = path.relative(DEFAULT_IMAGES_DIR, imagePath);
+  if (!relative.startsWith('..')) {
+    return path.join(options.imagesDir, relative);
+  }
+  return imagePath;
+}
+
+async function buildPdfForMenu(menuFile: string, options: Options) {
   const markdown = fs.readFileSync(menuFile, 'utf8');
   const imagePaths = extractImagePaths(markdown, menuFile);
 
@@ -82,31 +114,32 @@ async function buildPdfForMenu(menuFile: string) {
   let imageCount = 0;
 
   for (const imagePath of imagePaths) {
-    if (!fs.existsSync(imagePath)) {
-      console.warn(`Image not found: ${imagePath}`);
+    const resolvedPath = mapImagePath(imagePath, options);
+    if (!fs.existsSync(resolvedPath)) {
+      console.warn(`Image not found: ${resolvedPath}`);
       continue;
     }
-    const ext = path.extname(imagePath).toLowerCase();
+    const ext = path.extname(resolvedPath).toLowerCase();
     if (!SUPPORTED_EXTENSIONS.has(ext)) {
       try {
-        const embedded = await embedImage(pdfDoc, imagePath);
+        const embedded = await embedImage(pdfDoc, resolvedPath);
         const { width, height } = embedded.scale(1);
         const page = pdfDoc.addPage([width, height]);
         page.drawImage(embedded, { x: 0, y: 0, width, height });
         imageCount += 1;
       } catch {
-        console.warn(`Unsupported image type: ${imagePath}`);
+        console.warn(`Unsupported image type: ${resolvedPath}`);
       }
       continue;
     }
     try {
-      const embedded = await embedImage(pdfDoc, imagePath);
+      const embedded = await embedImage(pdfDoc, resolvedPath);
       const { width, height } = embedded.scale(1);
       const page = pdfDoc.addPage([width, height]);
       page.drawImage(embedded, { x: 0, y: 0, width, height });
       imageCount += 1;
     } catch {
-      console.warn(`Failed to embed image: ${imagePath}`);
+      console.warn(`Failed to embed image: ${resolvedPath}`);
     }
   }
 
@@ -117,20 +150,21 @@ async function buildPdfForMenu(menuFile: string) {
 
   const baseName = path.basename(menuFile, '.md');
   const outputName = `${MENU_NAME_MAP[baseName] ?? baseName}.pdf`;
-  const outputPath = path.join(OUTPUT_DIR, outputName);
+  const outputPath = path.join(options.outputDir, outputName);
   const pdfBytes = await pdfDoc.save();
   fs.writeFileSync(outputPath, pdfBytes);
   return { outputPath, images: imageCount };
 }
 
 async function run() {
+  const options = parseArgs();
   if (!fs.existsSync(MENUS_DIR)) {
     console.error(`Menus directory not found: ${MENUS_DIR}`);
     process.exit(1);
   }
 
-  fs.rmSync(OUTPUT_DIR, { recursive: true, force: true });
-  fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+  fs.rmSync(options.outputDir, { recursive: true, force: true });
+  fs.mkdirSync(options.outputDir, { recursive: true });
 
   const menuFiles = collectMenuFiles();
   if (menuFiles.length === 0) {
@@ -142,7 +176,7 @@ async function run() {
   let totalPdfs = 0;
 
   for (const menuFile of menuFiles) {
-    const result = await buildPdfForMenu(menuFile);
+    const result = await buildPdfForMenu(menuFile, options);
     if (result.outputPath) {
       totalPdfs += 1;
       totalImages += result.images;

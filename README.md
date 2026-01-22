@@ -70,6 +70,16 @@
 批量生成建议使用 Gemini Batch API，成本更低、适合较大规模的任务：
 <https://ai.google.dev/gemini-api/docs/batch-api?hl=zh-cn&batch=file>
 
+## 图片压缩
+
+当前使用 4K 原始图片压缩到 2K，发布 Release 时会导出 2K 分辨率图片生成的 PDF 以及 1K 分辨率生成的 PDF。对应命令如下：
+
+```bash
+# 4k转2k
+pnpm run compress-images -- --quality 92 --height 2752 --overwrite true
+# 2k转1k
+pnpm run compress-images -- --quality 92 --width 1376 --output-dir dist/images-1k --overwrite false
+```
 
 ## 后续计划
 

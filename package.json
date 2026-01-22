@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "check": "tsc -b --noEmit",
     "generate-recipes": "tsx scripts/generate-recipes.ts",
-    "generate-menu-pdfs": "tsx scripts/generate-menu-pdfs.ts"
+    "generate-menu-pdfs": "tsx scripts/generate-menu-pdfs.ts",
+    "compress-images": "tsx scripts/compress-images.ts"
   },
   "dependencies": {
     "clsx": "^2.1.1",
