@@ -1,6 +1,6 @@
 # HowToCook（图片版）
 
-本项目参考开源菜谱仓库 [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)，在保留原有菜谱 Markdown 内容组织方式的基础上，为每道菜使用 `gemini-3-pro-image-preview` 批量生成菜品图片，并提供按分类聚合的目录页，便于浏览与检索。
+本项目参考开源菜谱仓库 [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)，在保留原有菜谱 Markdown 内容组织方式的基础上，为每道菜使用 `gemini-3-pro-image-preview` 批量生成`4K`分辨率的菜品图片，并提供按分类聚合的目录页，便于浏览与检索。
 
 ## 在线访问
 
