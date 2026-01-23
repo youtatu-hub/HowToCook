@@ -98,3 +98,7 @@ pnpm run compress-images -- --quality 92 --height 1376 --output-dir dist/images-
 ## 致谢
 
 - 原始菜谱与结构参考：<https://github.com/Anduin2017/HowToCook>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=king-jingxiang/HowToCook&type=date&legend=top-left)](https://www.star-history.com/#king-jingxiang/HowToCook&type=date&legend=top-left)
