@@ -20,7 +20,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          lfs: true
+          lfs: false
+      
+      - name: Restore LFS cache
+        uses: actions/cache@v4
+        with:
+          path: .git/lfs/objects
+          key: lfs-${{ runner.os }}-${{ github.ref_name }}-v1
+          restore-keys: |
+            lfs-${{ runner.os }}-${{ github.ref_name }}-
+            lfs-${{ runner.os }}-
+      
+      - name: Setup Git LFS and pull assets
+        run: |
+          git lfs install
+          git lfs pull
       
       - uses: pnpm/action-setup@v2
         with:
