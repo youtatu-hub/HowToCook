@@ -23,7 +23,7 @@ jobs:
         with:
           version: 9
       - name: Install dependencies
-        run: pnpm install --frozen-lockfile
+        run: pnpm install --no-frozen-lockfile
       - name: Generate menu PDFs
         run: pnpm run generate-menu-pdfs
       - name: Compress images to 1k
