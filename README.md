@@ -6,6 +6,58 @@
 
 - 站点地址：<https://king-jingxiang.github.io/HowToCook/>
 
+## 本地部署
+
+### 1. 获取代码与 LFS 资源
+
+本项目图片存放于 GitHub LFS，建议先安装 Git LFS，再拉取图片资源：
+
+```bash
+git lfs install
+git clone https://github.com/king-jingxiang/HowToCook.git
+cd HowToCook
+git lfs pull
+```
+
+### 2. 本地开发预览
+
+```bash
+pnpm install
+pnpm run generate-recipes
+pnpm run dev
+```
+
+### 3. 本地静态部署配置方案（使用 Git LFS 资源）
+
+默认构建基路径用于 GitHub Pages（`/HowToCook/`）。如果在本地或自建服务器部署，请使用根路径构建：
+
+```bash
+pnpm install
+pnpm run generate-recipes
+VITE_BASE_PATH=/ pnpm run build
+pnpm run preview
+```
+
+## Docker 部署
+
+### 1. 本地构建镜像
+
+```bash
+docker build -t howtocook:local .
+docker run --rm -p 8080:80 howtocook:local
+```
+
+访问：<http://localhost:8080/>
+
+### 2. 使用 GitHub 镜像
+
+```bash
+docker pull ghcr.io/king-jingxiang/howtocook:latest
+docker run --rm -p 8080:80 ghcr.io/king-jingxiang/howtocook:latest
+```
+
+访问：<http://localhost:8080/>
+
 ## 项目用途
 
 - 提供更直观的菜谱浏览体验，图片与文字同步呈现

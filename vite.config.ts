@@ -4,7 +4,7 @@ import tsconfigPaths from "vite-tsconfig-paths";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/HowToCook/',
+  base: process.env.VITE_BASE_PATH ?? '/HowToCook/',
   build: {
     sourcemap: 'hidden',
   },
