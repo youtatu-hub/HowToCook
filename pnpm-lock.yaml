@@ -17,6 +17,9 @@ importers:
       lucide-react:
         specifier: ^0.511.0
         version: 0.511.0(react@18.3.1)
+      pdf-lib:
+        specifier: ^1.17.1
+        version: 1.17.1
       react:
         specifier: ^18.3.1
         version: 18.3.1
@@ -72,9 +75,6 @@ importers:
       globals:
         specifier: ^16.0.0
         version: 16.5.0
-      pdf-lib:
-        specifier: ^1.17.1
-        version: 1.17.1
       postcss:
         specifier: ^8.5.3
         version: 8.5.6

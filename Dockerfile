@@ -1,7 +1,8 @@
-FROM node:18-alpine AS build
+FROM node:20-bookworm-slim AS build
 WORKDIR /app
 COPY package.json pnpm-lock.yaml ./
-RUN corepack enable && pnpm install --frozen-lockfile
+RUN corepack enable && corepack prepare pnpm@9 --activate
+RUN pnpm install --frozen-lockfile
 COPY . .
 ENV VITE_BASE_PATH=/
 RUN pnpm run generate-recipes
