@@ -1,5 +1,5 @@
 import React, { useEffect, useCallback } from 'react';
-import { X, ChevronLeft, ChevronRight } from 'lucide-react';
+import { X, ChevronLeft, ChevronRight, Heart } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Recipe } from '@/types';
 import { withBaseUrl } from '@/lib/utils';
@@ -12,6 +12,8 @@ interface ImageModalProps {
   onPrev: () => void;
   hasNext: boolean;
   hasPrev: boolean;
+  isFavorite: boolean;
+  onToggleFavorite: (recipeId: string) => void;
 }
 
 export const ImageModal: React.FC<ImageModalProps> = ({
@@ -22,6 +24,8 @@ export const ImageModal: React.FC<ImageModalProps> = ({
   onPrev,
   hasNext,
   hasPrev,
+  isFavorite,
+  onToggleFavorite,
 }) => {
   // Handle keyboard navigation
   const handleKeyDown = useCallback((e: KeyboardEvent) => {
@@ -65,7 +69,14 @@ export const ImageModal: React.FC<ImageModalProps> = ({
           onClick={(e) => e.stopPropagation()}
         >
           {/* Header */}
-          <div className="absolute top-4 right-4 z-10">
+          <div className="absolute top-4 right-4 z-10 flex items-center gap-2">
+            <button
+              onClick={() => onToggleFavorite(recipe.id)}
+              className="p-2 rounded-full bg-black/50 text-white hover:bg-black/70 transition-colors"
+              aria-label={isFavorite ? '取消收藏' : '收藏菜谱'}
+            >
+              <Heart size={20} className={isFavorite ? 'text-orange-400' : 'text-white'} fill={isFavorite ? 'currentColor' : 'none'} />
+            </button>
             <button
               onClick={onClose}
               className="p-2 rounded-full bg-black/50 text-white hover:bg-black/70 transition-colors"

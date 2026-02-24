@@ -5,9 +5,11 @@ import { Recipe } from '@/types';
 interface RecipeGridProps {
   recipes: Recipe[];
   onRecipeClick: (recipe: Recipe) => void;
+  favoriteIds: Set<string>;
+  onToggleFavorite: (recipeId: string) => void;
 }
 
-export const RecipeGrid: React.FC<RecipeGridProps> = ({ recipes, onRecipeClick }) => {
+export const RecipeGrid: React.FC<RecipeGridProps> = ({ recipes, onRecipeClick, favoriteIds, onToggleFavorite }) => {
   if (recipes.length === 0) {
     return (
       <div className="text-center py-20 text-stone-400">
@@ -23,6 +25,8 @@ export const RecipeGrid: React.FC<RecipeGridProps> = ({ recipes, onRecipeClick }
           key={recipe.id} 
           recipe={recipe} 
           onClick={onRecipeClick} 
+          isFavorite={favoriteIds.has(recipe.id)}
+          onToggleFavorite={onToggleFavorite}
         />
       ))}
     </div>
