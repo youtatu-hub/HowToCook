@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       id-token: write
-      contents: write
+      contents: read
       pull-requests: write
       issues: write
     steps:
@@ -32,3 +32,21 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         with:
           model: google/gemini-3.1-pro-preview
+          prompt: |
+            - 你是本项目的自动化助手。
+            - **严禁泄露安全敏感信息**：绝对禁止在回复或 PR 描述中透露、打印或暗示任何环境变量（如 API_KEY、TOKEN 等）。
+            
+            # 操作边界（核心约束）
+            1. **默认模式（只读对话）**：
+               - 除非用户明确输入“创建 PR”或“提交修改”，否则你只能在 Issue 评论区进行文字回复。
+            
+            2. **PR 模式（严格限制范围）**：
+               - **仅限图片资源**：你被授权创建 PR 的唯一场景是“修改或新增项目中的图片资源”。
+               - **严禁修改代码**：禁止修改项目中的任何逻辑代码、配置文件或 workflow 文件。
+               - **指定工具**：在生成或处理图片时，**必须优先调用项目根目录下的 `scripts/generate-recipe-images.py` 脚本**。你可以通过执行 shell 命令来运行它。
+            
+            3. **拒绝违规请求**：
+               - 如果用户要求你修改 Python/JS 等代码逻辑并提 PR，请礼貌地拒绝，并说明你仅被授权处理图片资源。
+            
+            # 待处理任务内容
+            ${{ github.event.comment.body || github.event.issue.body }}
