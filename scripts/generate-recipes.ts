@@ -7,6 +7,7 @@ const __dirname = path.dirname(__filename);
 
 const PROJECT_ROOT = path.resolve(__dirname, '..');
 const IMAGES_DIR = path.join(PROJECT_ROOT, 'public/images/dishes');
+const CONTENT_DIR = path.join(PROJECT_ROOT, 'public/content/dishes');
 const OUTPUT_FILE = path.join(PROJECT_ROOT, 'src/data/recipes.json');
 
 const CATEGORY_MAP: Record<string, string> = {
@@ -28,6 +29,7 @@ interface Recipe {
   name: string;
   category: string;
   imagePath: string;
+  contentPath?: string;
 }
 
 interface Category {
@@ -36,6 +38,50 @@ interface Category {
   displayName: string;
   count: number;
   recipes: Recipe[];
+}
+
+function toPublicPath(filePath: string): string {
+  return path
+    .relative(path.join(PROJECT_ROOT, 'public'), filePath)
+    .split(path.sep)
+    .join('/');
+}
+
+function listMarkdownFiles(dirPath: string): string[] {
+  if (!fs.existsSync(dirPath)) return [];
+
+  const results: string[] = [];
+  const entries = fs.readdirSync(dirPath, { withFileTypes: true });
+
+  for (const entry of entries) {
+    const fullPath = path.join(dirPath, entry.name);
+    if (entry.isDirectory()) {
+      results.push(...listMarkdownFiles(fullPath));
+    } else if (entry.isFile() && path.extname(entry.name).toLowerCase() === '.md') {
+      results.push(fullPath);
+    }
+  }
+
+  return results;
+}
+
+function buildContentPathMap(category: string): Map<string, string> {
+  const categoryContentDir = path.join(CONTENT_DIR, category);
+  const markdownFiles = listMarkdownFiles(categoryContentDir).sort((a, b) => {
+    const aDepth = path.relative(categoryContentDir, a).split(path.sep).length;
+    const bDepth = path.relative(categoryContentDir, b).split(path.sep).length;
+    return aDepth - bDepth || a.localeCompare(b, 'zh-CN');
+  });
+
+  const contentPathMap = new Map<string, string>();
+  for (const filePath of markdownFiles) {
+    const name = path.basename(filePath, path.extname(filePath));
+    if (!contentPathMap.has(name)) {
+      contentPathMap.set(name, toPublicPath(filePath));
+    }
+  }
+
+  return contentPathMap;
 }
 
 function scanRecipes(): Category[] {
@@ -56,6 +102,7 @@ function scanRecipes(): Category[] {
 
     const recipes: Recipe[] = [];
     const files = fs.readdirSync(dirPath);
+    const contentPathMap = buildContentPathMap(dir);
 
     for (const file of files) {
       if (file.startsWith('.')) continue; // Skip hidden files
@@ -63,13 +110,20 @@ function scanRecipes(): Category[] {
       const ext = path.extname(file).toLowerCase();
       if (['.jpg', '.jpeg', '.png', '.webp', '.gif'].includes(ext)) {
         const name = path.basename(file, ext);
-        recipes.push({
+        const recipe: Recipe = {
           id: `${dir}-${name}`,
           name,
           category: dir,
           // Store path relative to public
           imagePath: `images/dishes/${dir}/${file}`
-        });
+        };
+
+        const contentPath = contentPathMap.get(name);
+        if (contentPath) {
+          recipe.contentPath = contentPath;
+        }
+
+        recipes.push(recipe);
       }
     }
 

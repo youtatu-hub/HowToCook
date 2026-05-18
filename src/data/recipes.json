@@ -9,157 +9,183 @@
         "id": "aquatic-咖喱炒蟹",
         "name": "咖喱炒蟹",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/咖喱炒蟹.jpeg"
+        "imagePath": "images/dishes/aquatic/咖喱炒蟹.jpeg",
+        "contentPath": "content/dishes/aquatic/咖喱炒蟹.md"
       },
       {
         "id": "aquatic-小龙虾",
         "name": "小龙虾",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/小龙虾.jpeg"
+        "imagePath": "images/dishes/aquatic/小龙虾.jpeg",
+        "contentPath": "content/dishes/aquatic/小龙虾/小龙虾.md"
       },
       {
         "id": "aquatic-干煎阿根廷红虾",
         "name": "干煎阿根廷红虾",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/干煎阿根廷红虾.jpeg"
+        "imagePath": "images/dishes/aquatic/干煎阿根廷红虾.jpeg",
+        "contentPath": "content/dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md"
       },
       {
         "id": "aquatic-微波葱姜黑鳕鱼",
         "name": "微波葱姜黑鳕鱼",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/微波葱姜黑鳕鱼.jpeg"
+        "imagePath": "images/dishes/aquatic/微波葱姜黑鳕鱼.jpeg",
+        "contentPath": "content/dishes/aquatic/微波葱姜黑鳕鱼.md"
       },
       {
         "id": "aquatic-水煮鱼",
         "name": "水煮鱼",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/水煮鱼.jpeg"
+        "imagePath": "images/dishes/aquatic/水煮鱼.jpeg",
+        "contentPath": "content/dishes/aquatic/水煮鱼.md"
       },
       {
         "id": "aquatic-油焖大虾",
         "name": "油焖大虾",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/油焖大虾.jpeg"
+        "imagePath": "images/dishes/aquatic/油焖大虾.jpeg",
+        "contentPath": "content/dishes/aquatic/油焖大虾/油焖大虾.md"
       },
       {
         "id": "aquatic-清蒸生蚝",
         "name": "清蒸生蚝",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/清蒸生蚝.jpeg"
+        "imagePath": "images/dishes/aquatic/清蒸生蚝.jpeg",
+        "contentPath": "content/dishes/aquatic/清蒸生蚝.md"
       },
       {
         "id": "aquatic-清蒸鲈鱼",
         "name": "清蒸鲈鱼",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/清蒸鲈鱼.jpeg"
+        "imagePath": "images/dishes/aquatic/清蒸鲈鱼.jpeg",
+        "contentPath": "content/dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md"
       },
       {
         "id": "aquatic-烤鱼",
         "name": "烤鱼",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/烤鱼.jpeg"
+        "imagePath": "images/dishes/aquatic/烤鱼.jpeg",
+        "contentPath": "content/dishes/aquatic/混合烤鱼/烤鱼.md"
       },
       {
         "id": "aquatic-焗大虾",
         "name": "焗大虾",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/焗大虾.jpeg"
+        "imagePath": "images/dishes/aquatic/焗大虾.jpeg",
+        "contentPath": "content/dishes/aquatic/焗大虾.md"
       },
       {
         "id": "aquatic-白灼虾",
         "name": "白灼虾",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/白灼虾.jpeg"
+        "imagePath": "images/dishes/aquatic/白灼虾.jpeg",
+        "contentPath": "content/dishes/aquatic/白灼虾/白灼虾.md"
       },
       {
         "id": "aquatic-糖醋鲤鱼",
         "name": "糖醋鲤鱼",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/糖醋鲤鱼.jpeg"
+        "imagePath": "images/dishes/aquatic/糖醋鲤鱼.jpeg",
+        "contentPath": "content/dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md"
       },
       {
         "id": "aquatic-红烧鱼",
         "name": "红烧鱼",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/红烧鱼.jpeg"
+        "imagePath": "images/dishes/aquatic/红烧鱼.jpeg",
+        "contentPath": "content/dishes/aquatic/红烧鱼.md"
       },
       {
         "id": "aquatic-红烧鱼头",
         "name": "红烧鱼头",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/红烧鱼头.jpeg"
+        "imagePath": "images/dishes/aquatic/红烧鱼头.jpeg",
+        "contentPath": "content/dishes/aquatic/红烧鱼头.md"
       },
       {
         "id": "aquatic-红烧鲤鱼",
         "name": "红烧鲤鱼",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/红烧鲤鱼.jpeg"
+        "imagePath": "images/dishes/aquatic/红烧鲤鱼.jpeg",
+        "contentPath": "content/dishes/aquatic/红烧鲤鱼.md"
       },
       {
         "id": "aquatic-肉蟹煲",
         "name": "肉蟹煲",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/肉蟹煲.jpeg"
+        "imagePath": "images/dishes/aquatic/肉蟹煲.jpeg",
+        "contentPath": "content/dishes/aquatic/肉蟹煲.md"
       },
       {
         "id": "aquatic-芥末黄油罗氏虾",
         "name": "芥末黄油罗氏虾",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/芥末黄油罗氏虾.jpeg"
+        "imagePath": "images/dishes/aquatic/芥末黄油罗氏虾.jpeg",
+        "contentPath": "content/dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md"
       },
       {
         "id": "aquatic-葱油桂鱼",
         "name": "葱油桂鱼",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/葱油桂鱼.jpeg"
+        "imagePath": "images/dishes/aquatic/葱油桂鱼.jpeg",
+        "contentPath": "content/dishes/aquatic/葱油桂鱼/葱油桂鱼.md"
       },
       {
         "id": "aquatic-葱烧海参",
         "name": "葱烧海参",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/葱烧海参.jpeg"
+        "imagePath": "images/dishes/aquatic/葱烧海参.jpeg",
+        "contentPath": "content/dishes/aquatic/葱烧海参/葱烧海参.md"
       },
       {
         "id": "aquatic-蒜蓉虾",
         "name": "蒜蓉虾",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/蒜蓉虾.jpeg"
+        "imagePath": "images/dishes/aquatic/蒜蓉虾.jpeg",
+        "contentPath": "content/dishes/aquatic/蒜蓉虾/蒜蓉虾.md"
       },
       {
         "id": "aquatic-蒜香黄油虾",
         "name": "蒜香黄油虾",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/蒜香黄油虾.jpeg"
+        "imagePath": "images/dishes/aquatic/蒜香黄油虾.jpeg",
+        "contentPath": "content/dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md"
       },
       {
         "id": "aquatic-蛏抱蛋",
         "name": "蛏抱蛋",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/蛏抱蛋.jpeg"
+        "imagePath": "images/dishes/aquatic/蛏抱蛋.jpeg",
+        "contentPath": "content/dishes/aquatic/蛏抱蛋/蛏抱蛋.md"
       },
       {
         "id": "aquatic-酱炖蟹",
         "name": "酱炖蟹",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/酱炖蟹.jpeg"
+        "imagePath": "images/dishes/aquatic/酱炖蟹.jpeg",
+        "contentPath": "content/dishes/aquatic/酱炖蟹.md"
       },
       {
         "id": "aquatic-香煎翘嘴鱼",
         "name": "香煎翘嘴鱼",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/香煎翘嘴鱼.jpeg"
+        "imagePath": "images/dishes/aquatic/香煎翘嘴鱼.jpeg",
+        "contentPath": "content/dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md"
       },
       {
         "id": "aquatic-鳊鱼炖豆腐",
         "name": "鳊鱼炖豆腐",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/鳊鱼炖豆腐.jpeg"
+        "imagePath": "images/dishes/aquatic/鳊鱼炖豆腐.jpeg",
+        "contentPath": "content/dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md"
       },
       {
         "id": "aquatic-黄油煎虾",
         "name": "黄油煎虾",
         "category": "aquatic",
-        "imagePath": "images/dishes/aquatic/黄油煎虾.jpeg"
+        "imagePath": "images/dishes/aquatic/黄油煎虾.jpeg",
+        "contentPath": "content/dishes/aquatic/黄油煎虾/黄油煎虾.md"
       }
     ]
   },
@@ -173,139 +199,162 @@
         "id": "breakfast-吐司果酱",
         "name": "吐司果酱",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/吐司果酱.jpeg"
+        "imagePath": "images/dishes/breakfast/吐司果酱.jpeg",
+        "contentPath": "content/dishes/breakfast/吐司果酱.md"
       },
       {
         "id": "breakfast-太阳蛋",
         "name": "太阳蛋",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/太阳蛋.jpeg"
+        "imagePath": "images/dishes/breakfast/太阳蛋.jpeg",
+        "contentPath": "content/dishes/breakfast/太阳蛋.md"
       },
       {
         "id": "breakfast-完美水煮蛋",
         "name": "完美水煮蛋",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/完美水煮蛋.jpeg"
+        "imagePath": "images/dishes/breakfast/完美水煮蛋.jpeg",
+        "contentPath": "content/dishes/breakfast/完美水煮蛋.md"
       },
       {
         "id": "breakfast-微波炉荷包蛋",
         "name": "微波炉荷包蛋",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/微波炉荷包蛋.jpeg"
+        "imagePath": "images/dishes/breakfast/微波炉荷包蛋.jpeg",
+        "contentPath": "content/dishes/breakfast/微波炉荷包蛋.md"
       },
       {
         "id": "breakfast-微波炉蒸蛋",
         "name": "微波炉蒸蛋",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/微波炉蒸蛋.jpeg"
+        "imagePath": "images/dishes/breakfast/微波炉蒸蛋.jpeg",
+        "contentPath": "content/dishes/breakfast/微波炉蒸蛋.md"
       },
       {
         "id": "breakfast-微波炉蛋糕",
         "name": "微波炉蛋糕",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/微波炉蛋糕.jpeg"
+        "imagePath": "images/dishes/breakfast/微波炉蛋糕.jpeg",
+        "contentPath": "content/dishes/breakfast/微波炉蛋糕.md"
       },
       {
         "id": "breakfast-手抓饼",
         "name": "手抓饼",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/手抓饼.jpeg"
+        "imagePath": "images/dishes/breakfast/手抓饼.jpeg",
+        "contentPath": "content/dishes/breakfast/手抓饼.md"
       },
       {
         "id": "breakfast-桂圆红枣粥",
         "name": "桂圆红枣粥",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/桂圆红枣粥.jpeg"
+        "imagePath": "images/dishes/breakfast/桂圆红枣粥.jpeg",
+        "contentPath": "content/dishes/breakfast/桂圆红枣粥.md"
       },
       {
         "id": "breakfast-水煮玉米",
         "name": "水煮玉米",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/水煮玉米.jpeg"
+        "imagePath": "images/dishes/breakfast/水煮玉米.jpeg",
+        "contentPath": "content/dishes/breakfast/水煮玉米.md"
       },
       {
         "id": "breakfast-温泉蛋",
         "name": "温泉蛋",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/温泉蛋.jpeg"
+        "imagePath": "images/dishes/breakfast/温泉蛋.jpeg",
+        "contentPath": "content/dishes/breakfast/温泉蛋/温泉蛋.md"
       },
       {
         "id": "breakfast-溏心蛋",
         "name": "溏心蛋",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/溏心蛋.jpeg"
+        "imagePath": "images/dishes/breakfast/溏心蛋.jpeg",
+        "contentPath": "content/dishes/breakfast/溏心蛋.md"
       },
       {
         "id": "breakfast-煎饺",
         "name": "煎饺",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/煎饺.jpeg"
+        "imagePath": "images/dishes/breakfast/煎饺.jpeg",
+        "contentPath": "content/dishes/breakfast/煎饺.md"
       },
       {
         "id": "breakfast-燕麦鸡蛋饼",
         "name": "燕麦鸡蛋饼",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/燕麦鸡蛋饼.jpeg"
+        "imagePath": "images/dishes/breakfast/燕麦鸡蛋饼.jpeg",
+        "contentPath": "content/dishes/breakfast/燕麦鸡蛋饼.md"
       },
       {
         "id": "breakfast-牛奶燕麦",
         "name": "牛奶燕麦",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/牛奶燕麦.jpeg"
+        "imagePath": "images/dishes/breakfast/牛奶燕麦.jpeg",
+        "contentPath": "content/dishes/breakfast/牛奶燕麦.md"
       },
       {
         "id": "breakfast-空气炸锅面包片",
         "name": "空气炸锅面包片",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/空气炸锅面包片.jpeg"
+        "imagePath": "images/dishes/breakfast/空气炸锅面包片.jpeg",
+        "contentPath": "content/dishes/breakfast/空气炸锅面包片.md"
       },
       {
         "id": "breakfast-美式炒蛋",
         "name": "美式炒蛋",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/美式炒蛋.jpeg"
+        "imagePath": "images/dishes/breakfast/美式炒蛋.jpeg",
+        "contentPath": "content/dishes/breakfast/美式炒蛋.md"
       },
       {
         "id": "breakfast-苏格兰蛋",
         "name": "苏格兰蛋",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/苏格兰蛋.jpeg"
+        "imagePath": "images/dishes/breakfast/苏格兰蛋.jpeg",
+        "contentPath": "content/dishes/breakfast/苏格兰蛋/苏格兰蛋.md"
       },
       {
         "id": "breakfast-茶叶蛋",
         "name": "茶叶蛋",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/茶叶蛋.jpeg"
+        "imagePath": "images/dishes/breakfast/茶叶蛋.jpeg",
+        "contentPath": "content/dishes/breakfast/茶叶蛋.md"
       },
       {
         "id": "breakfast-蒸水蛋",
         "name": "蒸水蛋",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/蒸水蛋.jpeg"
+        "imagePath": "images/dishes/breakfast/蒸水蛋.jpeg",
+        "contentPath": "content/dishes/breakfast/蒸水蛋.md"
       },
       {
         "id": "breakfast-蒸花卷",
         "name": "蒸花卷",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/蒸花卷.jpeg"
+        "imagePath": "images/dishes/breakfast/蒸花卷.jpeg",
+        "contentPath": "content/dishes/breakfast/蒸花卷.md"
       },
       {
         "id": "breakfast-蛋煎糍粑",
         "name": "蛋煎糍粑",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/蛋煎糍粑.jpeg"
+        "imagePath": "images/dishes/breakfast/蛋煎糍粑.jpeg",
+        "contentPath": "content/dishes/breakfast/蛋煎糍粑.md"
       },
       {
         "id": "breakfast-金枪鱼酱三明治",
         "name": "金枪鱼酱三明治",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/金枪鱼酱三明治.jpeg"
+        "imagePath": "images/dishes/breakfast/金枪鱼酱三明治.jpeg",
+        "contentPath": "content/dishes/breakfast/金枪鱼酱三明治.md"
       },
       {
         "id": "breakfast-鸡蛋三明治",
         "name": "鸡蛋三明治",
         "category": "breakfast",
-        "imagePath": "images/dishes/breakfast/鸡蛋三明治.jpeg"
+        "imagePath": "images/dishes/breakfast/鸡蛋三明治.jpeg",
+        "contentPath": "content/dishes/breakfast/鸡蛋三明治.md"
       }
     ]
   },
@@ -319,55 +368,64 @@
         "id": "condiment-油泼辣子",
         "name": "油泼辣子",
         "category": "condiment",
-        "imagePath": "images/dishes/condiment/油泼辣子.jpeg"
+        "imagePath": "images/dishes/condiment/油泼辣子.jpeg",
+        "contentPath": "content/dishes/condiment/油泼辣子/油泼辣子.md"
       },
       {
         "id": "condiment-油酥",
         "name": "油酥",
         "category": "condiment",
-        "imagePath": "images/dishes/condiment/油酥.jpeg"
+        "imagePath": "images/dishes/condiment/油酥.jpeg",
+        "contentPath": "content/dishes/condiment/油酥.md"
       },
       {
         "id": "condiment-炸串酱料",
         "name": "炸串酱料",
         "category": "condiment",
-        "imagePath": "images/dishes/condiment/炸串酱料.jpeg"
+        "imagePath": "images/dishes/condiment/炸串酱料.jpeg",
+        "contentPath": "content/dishes/condiment/炸串酱料.md"
       },
       {
         "id": "condiment-简易版炒糖色",
         "name": "简易版炒糖色",
         "category": "condiment",
-        "imagePath": "images/dishes/condiment/简易版炒糖色.jpeg"
+        "imagePath": "images/dishes/condiment/简易版炒糖色.jpeg",
+        "contentPath": "content/dishes/condiment/简易版炒糖色.md"
       },
       {
         "id": "condiment-糖醋汁",
         "name": "糖醋汁",
         "category": "condiment",
-        "imagePath": "images/dishes/condiment/糖醋汁.jpeg"
+        "imagePath": "images/dishes/condiment/糖醋汁.jpeg",
+        "contentPath": "content/dishes/condiment/糖醋汁.md"
       },
       {
         "id": "condiment-草莓酱",
         "name": "草莓酱",
         "category": "condiment",
-        "imagePath": "images/dishes/condiment/草莓酱.jpeg"
+        "imagePath": "images/dishes/condiment/草莓酱.jpeg",
+        "contentPath": "content/dishes/condiment/草莓酱/草莓酱.md"
       },
       {
         "id": "condiment-葱油",
         "name": "葱油",
         "category": "condiment",
-        "imagePath": "images/dishes/condiment/葱油.jpeg"
+        "imagePath": "images/dishes/condiment/葱油.jpeg",
+        "contentPath": "content/dishes/condiment/葱油.md"
       },
       {
         "id": "condiment-蒜香酱油",
         "name": "蒜香酱油",
         "category": "condiment",
-        "imagePath": "images/dishes/condiment/蒜香酱油.jpeg"
+        "imagePath": "images/dishes/condiment/蒜香酱油.jpeg",
+        "contentPath": "content/dishes/condiment/蒜香酱油.md"
       },
       {
         "id": "condiment-蔗糖糖浆",
         "name": "蔗糖糖浆",
         "category": "condiment",
-        "imagePath": "images/dishes/condiment/蔗糖糖浆.jpeg"
+        "imagePath": "images/dishes/condiment/蔗糖糖浆.jpeg",
+        "contentPath": "content/dishes/condiment/蔗糖糖浆/蔗糖糖浆.md"
       }
     ]
   },
@@ -381,103 +439,120 @@
         "id": "dessert-反沙芋头",
         "name": "反沙芋头",
         "category": "dessert",
-        "imagePath": "images/dishes/dessert/反沙芋头.jpeg"
+        "imagePath": "images/dishes/dessert/反沙芋头.jpeg",
+        "contentPath": "content/dishes/dessert/反沙芋头/反沙芋头.md"
       },
       {
         "id": "dessert-咖啡椰奶冻",
         "name": "咖啡椰奶冻",
         "category": "dessert",
-        "imagePath": "images/dishes/dessert/咖啡椰奶冻.jpeg"
+        "imagePath": "images/dishes/dessert/咖啡椰奶冻.jpeg",
+        "contentPath": "content/dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md"
       },
       {
         "id": "dessert-奥利奥冰淇淋",
         "name": "奥利奥冰淇淋",
         "category": "dessert",
-        "imagePath": "images/dishes/dessert/奥利奥冰淇淋.jpeg"
+        "imagePath": "images/dishes/dessert/奥利奥冰淇淋.jpeg",
+        "contentPath": "content/dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md"
       },
       {
         "id": "dessert-戚风蛋糕",
         "name": "戚风蛋糕",
         "category": "dessert",
-        "imagePath": "images/dishes/dessert/戚风蛋糕.jpeg"
+        "imagePath": "images/dishes/dessert/戚风蛋糕.jpeg",
+        "contentPath": "content/dishes/dessert/戚风蛋糕/戚风蛋糕.md"
       },
       {
         "id": "dessert-提拉米苏",
         "name": "提拉米苏",
         "category": "dessert",
-        "imagePath": "images/dishes/dessert/提拉米苏.jpeg"
+        "imagePath": "images/dishes/dessert/提拉米苏.jpeg",
+        "contentPath": "content/dishes/dessert/提拉米苏/提拉米苏.md"
       },
       {
         "id": "dessert-无厨师机蜂蜜面包",
         "name": "无厨师机蜂蜜面包",
         "category": "dessert",
-        "imagePath": "images/dishes/dessert/无厨师机蜂蜜面包.jpeg"
+        "imagePath": "images/dishes/dessert/无厨师机蜂蜜面包.jpeg",
+        "contentPath": "content/dishes/dessert/无厨师机蜂蜜面包/无厨师机蜂蜜面包.md"
       },
       {
         "id": "dessert-炸鲜奶",
         "name": "炸鲜奶",
         "category": "dessert",
-        "imagePath": "images/dishes/dessert/炸鲜奶.jpeg"
+        "imagePath": "images/dishes/dessert/炸鲜奶.jpeg",
+        "contentPath": "content/dishes/dessert/炸鲜奶/炸鲜奶.md"
       },
       {
         "id": "dessert-烤箱版巴斯克芝士蛋糕",
         "name": "烤箱版巴斯克芝士蛋糕",
         "category": "dessert",
-        "imagePath": "images/dishes/dessert/烤箱版巴斯克芝士蛋糕.jpeg"
+        "imagePath": "images/dishes/dessert/烤箱版巴斯克芝士蛋糕.jpeg",
+        "contentPath": "content/dishes/dessert/烤箱版巴斯克芝士蛋糕/烤箱版巴斯克芝士蛋糕.md"
       },
       {
         "id": "dessert-烤蛋挞",
         "name": "烤蛋挞",
         "category": "dessert",
-        "imagePath": "images/dishes/dessert/烤蛋挞.jpeg"
+        "imagePath": "images/dishes/dessert/烤蛋挞.jpeg",
+        "contentPath": "content/dishes/dessert/烤蛋挞/烤蛋挞.md"
       },
       {
         "id": "dessert-玛格丽特饼干",
         "name": "玛格丽特饼干",
         "category": "dessert",
-        "imagePath": "images/dishes/dessert/玛格丽特饼干.jpeg"
+        "imagePath": "images/dishes/dessert/玛格丽特饼干.jpeg",
+        "contentPath": "content/dishes/dessert/玛格丽特饼干/玛格丽特饼干.md"
       },
       {
         "id": "dessert-电饭锅蛋糕",
         "name": "电饭锅蛋糕",
         "category": "dessert",
-        "imagePath": "images/dishes/dessert/电饭锅蛋糕.jpeg"
+        "imagePath": "images/dishes/dessert/电饭锅蛋糕.jpeg",
+        "contentPath": "content/dishes/dessert/电饭锅蛋糕/电饭锅蛋糕.md"
       },
       {
         "id": "dessert-红柚蛋糕",
         "name": "红柚蛋糕",
         "category": "dessert",
-        "imagePath": "images/dishes/dessert/红柚蛋糕.jpeg"
+        "imagePath": "images/dishes/dessert/红柚蛋糕.jpeg",
+        "contentPath": "content/dishes/dessert/红柚蛋糕/红柚蛋糕.md"
       },
       {
         "id": "dessert-芋泥雪媚娘",
         "name": "芋泥雪媚娘",
         "category": "dessert",
-        "imagePath": "images/dishes/dessert/芋泥雪媚娘.jpeg"
+        "imagePath": "images/dishes/dessert/芋泥雪媚娘.jpeg",
+        "contentPath": "content/dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md"
       },
       {
         "id": "dessert-英式司康",
         "name": "英式司康",
         "category": "dessert",
-        "imagePath": "images/dishes/dessert/英式司康.jpeg"
+        "imagePath": "images/dishes/dessert/英式司康.jpeg",
+        "contentPath": "content/dishes/dessert/英式司康/英式司康.md"
       },
       {
         "id": "dessert-草莓冰淇淋",
         "name": "草莓冰淇淋",
         "category": "dessert",
-        "imagePath": "images/dishes/dessert/草莓冰淇淋.jpeg"
+        "imagePath": "images/dishes/dessert/草莓冰淇淋.jpeg",
+        "contentPath": "content/dishes/dessert/草莓冰淇淋/草莓冰淇淋.md"
       },
       {
         "id": "dessert-魔芋蛋糕",
         "name": "魔芋蛋糕",
         "category": "dessert",
-        "imagePath": "images/dishes/dessert/魔芋蛋糕.jpeg"
+        "imagePath": "images/dishes/dessert/魔芋蛋糕.jpeg",
+        "contentPath": "content/dishes/dessert/魔芋蛋糕/魔芋蛋糕.md"
       },
       {
         "id": "dessert-龟苓膏",
         "name": "龟苓膏",
         "category": "dessert",
-        "imagePath": "images/dishes/dessert/龟苓膏.jpeg"
+        "imagePath": "images/dishes/dessert/龟苓膏.jpeg",
+        "contentPath": "content/dishes/dessert/龟苓膏/龟苓膏.md"
       }
     ]
   },
@@ -491,127 +566,148 @@
         "id": "drink-B52轰炸机",
         "name": "B52轰炸机",
         "category": "drink",
-        "imagePath": "images/dishes/drink/B52轰炸机.jpeg"
+        "imagePath": "images/dishes/drink/B52轰炸机.jpeg",
+        "contentPath": "content/dishes/drink/B52轰炸机.md"
       },
       {
         "id": "drink-Mojito莫吉托",
         "name": "Mojito莫吉托",
         "category": "drink",
-        "imagePath": "images/dishes/drink/Mojito莫吉托.jpeg"
+        "imagePath": "images/dishes/drink/Mojito莫吉托.jpeg",
+        "contentPath": "content/dishes/drink/Mojito莫吉托.md"
       },
       {
         "id": "drink-冬瓜茶",
         "name": "冬瓜茶",
         "category": "drink",
-        "imagePath": "images/dishes/drink/冬瓜茶.jpeg"
+        "imagePath": "images/dishes/drink/冬瓜茶.jpeg",
+        "contentPath": "content/dishes/drink/冬瓜茶.md"
       },
       {
         "id": "drink-冰粉",
         "name": "冰粉",
         "category": "drink",
-        "imagePath": "images/dishes/drink/冰粉.jpeg"
+        "imagePath": "images/dishes/drink/冰粉.jpeg",
+        "contentPath": "content/dishes/drink/冰粉/冰粉.md"
       },
       {
         "id": "drink-可乐桶",
         "name": "可乐桶",
         "category": "drink",
-        "imagePath": "images/dishes/drink/可乐桶.jpeg"
+        "imagePath": "images/dishes/drink/可乐桶.jpeg",
+        "contentPath": "content/dishes/drink/可乐桶.md"
       },
       {
         "id": "drink-奇异果菠菜特调",
         "name": "奇异果菠菜特调",
         "category": "drink",
-        "imagePath": "images/dishes/drink/奇异果菠菜特调.jpeg"
+        "imagePath": "images/dishes/drink/奇异果菠菜特调.jpeg",
+        "contentPath": "content/dishes/drink/奇异果菠菜特调/奇异果菠菜特调.md"
       },
       {
         "id": "drink-奶茶",
         "name": "奶茶",
         "category": "drink",
-        "imagePath": "images/dishes/drink/奶茶.jpeg"
+        "imagePath": "images/dishes/drink/奶茶.jpeg",
+        "contentPath": "content/dishes/drink/奶茶.md"
       },
       {
         "id": "drink-杨枝甘露",
         "name": "杨枝甘露",
         "category": "drink",
-        "imagePath": "images/dishes/drink/杨枝甘露.jpeg"
+        "imagePath": "images/dishes/drink/杨枝甘露.jpeg",
+        "contentPath": "content/dishes/drink/杨枝甘露.md"
       },
       {
         "id": "drink-柠檬水",
         "name": "柠檬水",
         "category": "drink",
-        "imagePath": "images/dishes/drink/柠檬水.jpeg"
+        "imagePath": "images/dishes/drink/柠檬水.jpeg",
+        "contentPath": "content/dishes/drink/柠檬水/柠檬水.md"
       },
       {
         "id": "drink-泰国手标红茶",
         "name": "泰国手标红茶",
         "category": "drink",
-        "imagePath": "images/dishes/drink/泰国手标红茶.jpeg"
+        "imagePath": "images/dishes/drink/泰国手标红茶.jpeg",
+        "contentPath": "content/dishes/drink/泰国手标红茶/泰国手标红茶.md"
       },
       {
         "id": "drink-海边落日",
         "name": "海边落日",
         "category": "drink",
-        "imagePath": "images/dishes/drink/海边落日.jpeg"
+        "imagePath": "images/dishes/drink/海边落日.jpeg",
+        "contentPath": "content/dishes/drink/海边落日/海边落日.md"
       },
       {
         "id": "drink-百香果橙子特调",
         "name": "百香果橙子特调",
         "category": "drink",
-        "imagePath": "images/dishes/drink/百香果橙子特调.jpeg"
+        "imagePath": "images/dishes/drink/百香果橙子特调.jpeg",
+        "contentPath": "content/dishes/drink/百香果橙子特调/百香果橙子特调.md"
       },
       {
         "id": "drink-砂糖椰子冰沙",
         "name": "砂糖椰子冰沙",
         "category": "drink",
-        "imagePath": "images/dishes/drink/砂糖椰子冰沙.jpeg"
+        "imagePath": "images/dishes/drink/砂糖椰子冰沙.jpeg",
+        "contentPath": "content/dishes/drink/砂糖椰子冰沙/砂糖椰子冰沙.md"
       },
       {
         "id": "drink-耙耙柑茶",
         "name": "耙耙柑茶",
         "category": "drink",
-        "imagePath": "images/dishes/drink/耙耙柑茶.jpeg"
+        "imagePath": "images/dishes/drink/耙耙柑茶.jpeg",
+        "contentPath": "content/dishes/drink/耙耙柑茶/耙耙柑茶.md"
       },
       {
         "id": "drink-菠萝咖啡特调",
         "name": "菠萝咖啡特调",
         "category": "drink",
-        "imagePath": "images/dishes/drink/菠萝咖啡特调.jpeg"
+        "imagePath": "images/dishes/drink/菠萝咖啡特调.jpeg",
+        "contentPath": "content/dishes/drink/菠萝咖啡特调/菠萝咖啡特调.md"
       },
       {
         "id": "drink-酒酿醪糟",
         "name": "酒酿醪糟",
         "category": "drink",
-        "imagePath": "images/dishes/drink/酒酿醪糟.jpeg"
+        "imagePath": "images/dishes/drink/酒酿醪糟.jpeg",
+        "contentPath": "content/dishes/drink/酒酿醪糟/酒酿醪糟.md"
       },
       {
         "id": "drink-酸梅汤",
         "name": "酸梅汤",
         "category": "drink",
-        "imagePath": "images/dishes/drink/酸梅汤.jpeg"
+        "imagePath": "images/dishes/drink/酸梅汤.jpeg",
+        "contentPath": "content/dishes/drink/酸梅汤/酸梅汤.md"
       },
       {
         "id": "drink-酸梅汤（半成品加工）",
         "name": "酸梅汤（半成品加工）",
         "category": "drink",
-        "imagePath": "images/dishes/drink/酸梅汤（半成品加工）.jpeg"
+        "imagePath": "images/dishes/drink/酸梅汤（半成品加工）.jpeg",
+        "contentPath": "content/dishes/drink/酸梅汤（半成品加工）.md"
       },
       {
         "id": "drink-金汤力",
         "name": "金汤力",
         "category": "drink",
-        "imagePath": "images/dishes/drink/金汤力.jpeg"
+        "imagePath": "images/dishes/drink/金汤力.jpeg",
+        "contentPath": "content/dishes/drink/金汤力/金汤力.md"
       },
       {
         "id": "drink-金菲士",
         "name": "金菲士",
         "category": "drink",
-        "imagePath": "images/dishes/drink/金菲士.jpeg"
+        "imagePath": "images/dishes/drink/金菲士.jpeg",
+        "contentPath": "content/dishes/drink/金菲士/金菲士.md"
       },
       {
         "id": "drink-长岛冰茶",
         "name": "长岛冰茶",
         "category": "drink",
-        "imagePath": "images/dishes/drink/长岛冰茶.jpeg"
+        "imagePath": "images/dishes/drink/长岛冰茶.jpeg",
+        "contentPath": "content/dishes/drink/长岛冰茶.md"
       }
     ]
   },
@@ -625,349 +721,407 @@
         "id": "meat_dish-乡村啤酒鸭",
         "name": "乡村啤酒鸭",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/乡村啤酒鸭.jpeg"
+        "imagePath": "images/dishes/meat_dish/乡村啤酒鸭.jpeg",
+        "contentPath": "content/dishes/meat_dish/乡村啤酒鸭.md"
       },
       {
         "id": "meat_dish-农家一碗香",
         "name": "农家一碗香",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/农家一碗香.jpeg"
+        "imagePath": "images/dishes/meat_dish/农家一碗香.jpeg",
+        "contentPath": "content/dishes/meat_dish/农家一碗香/农家一碗香.md"
       },
       {
         "id": "meat_dish-冬瓜酿肉",
         "name": "冬瓜酿肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/冬瓜酿肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/冬瓜酿肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md"
       },
       {
         "id": "meat_dish-冷吃兔",
         "name": "冷吃兔",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/冷吃兔.jpeg"
+        "imagePath": "images/dishes/meat_dish/冷吃兔.jpeg",
+        "contentPath": "content/dishes/meat_dish/冷吃兔.md"
       },
       {
         "id": "meat_dish-凉拌鸡丝",
         "name": "凉拌鸡丝",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/凉拌鸡丝.jpeg"
+        "imagePath": "images/dishes/meat_dish/凉拌鸡丝.jpeg",
+        "contentPath": "content/dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md"
       },
       {
         "id": "meat_dish-口水鸡",
         "name": "口水鸡",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/口水鸡.jpeg"
+        "imagePath": "images/dishes/meat_dish/口水鸡.jpeg",
+        "contentPath": "content/dishes/meat_dish/口水鸡/口水鸡.md"
       },
       {
         "id": "meat_dish-可乐鸡翅",
         "name": "可乐鸡翅",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/可乐鸡翅.jpeg"
+        "imagePath": "images/dishes/meat_dish/可乐鸡翅.jpeg",
+        "contentPath": "content/dishes/meat_dish/可乐鸡翅.md"
       },
       {
         "id": "meat_dish-台式卤肉饭",
         "name": "台式卤肉饭",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/台式卤肉饭.jpeg"
+        "imagePath": "images/dishes/meat_dish/台式卤肉饭.jpeg",
+        "contentPath": "content/dishes/meat_dish/台式卤肉饭/台式卤肉饭.md"
       },
       {
         "id": "meat_dish-咕噜肉",
         "name": "咕噜肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/咕噜肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/咕噜肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/咕噜肉.md"
       },
       {
         "id": "meat_dish-咖喱肥牛",
         "name": "咖喱肥牛",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/咖喱肥牛.jpeg"
+        "imagePath": "images/dishes/meat_dish/咖喱肥牛.jpeg",
+        "contentPath": "content/dishes/meat_dish/咖喱肥牛/咖喱肥牛.md"
       },
       {
         "id": "meat_dish-商芝肉",
         "name": "商芝肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/商芝肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/商芝肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/商芝肉.md"
       },
       {
         "id": "meat_dish-啤酒鸭",
         "name": "啤酒鸭",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/啤酒鸭.jpeg"
+        "imagePath": "images/dishes/meat_dish/啤酒鸭.jpeg",
+        "contentPath": "content/dishes/meat_dish/啤酒鸭/啤酒鸭.md"
       },
       {
         "id": "meat_dish-回锅肉",
         "name": "回锅肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/回锅肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/回锅肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/回锅肉/回锅肉.md"
       },
       {
         "id": "meat_dish-土豆炖排骨",
         "name": "土豆炖排骨",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/土豆炖排骨.jpeg"
+        "imagePath": "images/dishes/meat_dish/土豆炖排骨.jpeg",
+        "contentPath": "content/dishes/meat_dish/土豆炖排骨/土豆炖排骨.md"
       },
       {
         "id": "meat_dish-奶酪培根通心粉",
         "name": "奶酪培根通心粉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/奶酪培根通心粉.jpeg"
+        "imagePath": "images/dishes/meat_dish/奶酪培根通心粉.jpeg",
+        "contentPath": "content/dishes/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md"
       },
       {
         "id": "meat_dish-姜炒鸡",
         "name": "姜炒鸡",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/姜炒鸡.jpeg"
+        "imagePath": "images/dishes/meat_dish/姜炒鸡.jpeg",
+        "contentPath": "content/dishes/meat_dish/姜炒鸡/姜炒鸡.md"
       },
       {
         "id": "meat_dish-姜葱捞鸡",
         "name": "姜葱捞鸡",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/姜葱捞鸡.jpeg"
+        "imagePath": "images/dishes/meat_dish/姜葱捞鸡.jpeg",
+        "contentPath": "content/dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md"
       },
       {
         "id": "meat_dish-孜然牛肉",
         "name": "孜然牛肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/孜然牛肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/孜然牛肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/孜然牛肉.md"
       },
       {
         "id": "meat_dish-宫保鸡丁",
         "name": "宫保鸡丁",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/宫保鸡丁.jpeg"
+        "imagePath": "images/dishes/meat_dish/宫保鸡丁.jpeg",
+        "contentPath": "content/dishes/meat_dish/宫保鸡丁/宫保鸡丁.md"
       },
       {
         "id": "meat_dish-小炒肉",
         "name": "小炒肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/小炒肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/小炒肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/小炒肉.md"
       },
       {
         "id": "meat_dish-小炒鸡肝",
         "name": "小炒鸡肝",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/小炒鸡肝.jpeg"
+        "imagePath": "images/dishes/meat_dish/小炒鸡肝.jpeg",
+        "contentPath": "content/dishes/meat_dish/小炒鸡肝/小炒鸡肝.md"
       },
       {
         "id": "meat_dish-小炒黄牛肉",
         "name": "小炒黄牛肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/小炒黄牛肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/小炒黄牛肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md"
       },
       {
         "id": "meat_dish-小米辣炒肉",
         "name": "小米辣炒肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/小米辣炒肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/小米辣炒肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/小米辣炒肉.md"
       },
       {
         "id": "meat_dish-尖叫牛蛙",
         "name": "尖叫牛蛙",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/尖叫牛蛙.jpeg"
+        "imagePath": "images/dishes/meat_dish/尖叫牛蛙.jpeg",
+        "contentPath": "content/dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.md"
       },
       {
         "id": "meat_dish-尖椒炒牛肉",
         "name": "尖椒炒牛肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/尖椒炒牛肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/尖椒炒牛肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/尖椒炒牛肉.md"
       },
       {
         "id": "meat_dish-山西过油肉",
         "name": "山西过油肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/山西过油肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/山西过油肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/山西过油肉.md"
       },
       {
         "id": "meat_dish-巴基斯坦牛肉咖喱",
         "name": "巴基斯坦牛肉咖喱",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/巴基斯坦牛肉咖喱.jpeg"
+        "imagePath": "images/dishes/meat_dish/巴基斯坦牛肉咖喱.jpeg",
+        "contentPath": "content/dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md"
       },
       {
         "id": "meat_dish-带把肘子",
         "name": "带把肘子",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/带把肘子.jpeg"
+        "imagePath": "images/dishes/meat_dish/带把肘子.jpeg",
+        "contentPath": "content/dishes/meat_dish/带把肘子.md"
       },
       {
         "id": "meat_dish-干煸仔鸡",
         "name": "干煸仔鸡",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/干煸仔鸡.jpeg"
+        "imagePath": "images/dishes/meat_dish/干煸仔鸡.jpeg",
+        "contentPath": "content/dishes/meat_dish/干煸仔鸡/干煸仔鸡.md"
       },
       {
         "id": "meat_dish-广式萝卜牛腩",
         "name": "广式萝卜牛腩",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/广式萝卜牛腩.jpeg"
+        "imagePath": "images/dishes/meat_dish/广式萝卜牛腩.jpeg",
+        "contentPath": "content/dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md"
       },
       {
         "id": "meat_dish-徽派红烧肉",
         "name": "徽派红烧肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/徽派红烧肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/徽派红烧肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/徽派红烧肉/徽派红烧肉.md"
       },
       {
         "id": "meat_dish-意式烤鸡",
         "name": "意式烤鸡",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/意式烤鸡.jpeg"
+        "imagePath": "images/dishes/meat_dish/意式烤鸡.jpeg",
+        "contentPath": "content/dishes/meat_dish/意式烤鸡.md"
       },
       {
         "id": "meat_dish-新疆大盘鸡",
         "name": "新疆大盘鸡",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/新疆大盘鸡.jpeg"
+        "imagePath": "images/dishes/meat_dish/新疆大盘鸡.jpeg",
+        "contentPath": "content/dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md"
       },
       {
         "id": "meat_dish-无骨鸡爪",
         "name": "无骨鸡爪",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/无骨鸡爪.jpeg"
+        "imagePath": "images/dishes/meat_dish/无骨鸡爪.jpeg",
+        "contentPath": "content/dishes/meat_dish/无骨鸡爪/无骨鸡爪.md"
       },
       {
         "id": "meat_dish-枝竹羊腩煲",
         "name": "枝竹羊腩煲",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/枝竹羊腩煲.jpeg"
+        "imagePath": "images/dishes/meat_dish/枝竹羊腩煲.jpeg",
+        "contentPath": "content/dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md"
       },
       {
         "id": "meat_dish-柱候牛腩",
         "name": "柱候牛腩",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/柱候牛腩.jpeg"
+        "imagePath": "images/dishes/meat_dish/柱候牛腩.jpeg",
+        "contentPath": "content/dishes/meat_dish/柱候牛腩/柱候牛腩.md"
       },
       {
         "id": "meat_dish-梅菜扣肉",
         "name": "梅菜扣肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/梅菜扣肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/梅菜扣肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/梅菜扣肉/梅菜扣肉.md"
       },
       {
         "id": "meat_dish-椒盐排条",
         "name": "椒盐排条",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/椒盐排条.jpeg"
+        "imagePath": "images/dishes/meat_dish/椒盐排条.jpeg",
+        "contentPath": "content/dishes/meat_dish/椒盐排条.md"
       },
       {
         "id": "meat_dish-水煮牛肉",
         "name": "水煮牛肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/水煮牛肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/水煮牛肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/水煮牛肉/水煮牛肉.md"
       },
       {
         "id": "meat_dish-水煮肉片",
         "name": "水煮肉片",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/水煮肉片.jpeg"
+        "imagePath": "images/dishes/meat_dish/水煮肉片.jpeg",
+        "contentPath": "content/dishes/meat_dish/水煮肉片.md"
       },
       {
         "id": "meat_dish-洋葱炒猪肉",
         "name": "洋葱炒猪肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/洋葱炒猪肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/洋葱炒猪肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/洋葱炒猪肉.md"
       },
       {
         "id": "meat_dish-清蒸鳜鱼",
         "name": "清蒸鳜鱼",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/清蒸鳜鱼.jpeg"
+        "imagePath": "images/dishes/meat_dish/清蒸鳜鱼.jpeg",
+        "contentPath": "content/dishes/meat_dish/清蒸鳜鱼/清蒸鳜鱼.md"
       },
       {
         "id": "meat_dish-湖南家常红烧肉",
         "name": "湖南家常红烧肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/湖南家常红烧肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/湖南家常红烧肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md"
       },
       {
         "id": "meat_dish-湘祁米夫鸭",
         "name": "湘祁米夫鸭",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/湘祁米夫鸭.jpeg"
+        "imagePath": "images/dishes/meat_dish/湘祁米夫鸭.jpeg",
+        "contentPath": "content/dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md"
       },
       {
         "id": "meat_dish-烤鸡翅",
         "name": "烤鸡翅",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/烤鸡翅.jpeg"
+        "imagePath": "images/dishes/meat_dish/烤鸡翅.jpeg",
+        "contentPath": "content/dishes/meat_dish/烤鸡翅.md"
       },
       {
         "id": "meat_dish-煎烤羊排",
         "name": "煎烤羊排",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/煎烤羊排.jpeg"
+        "imagePath": "images/dishes/meat_dish/煎烤羊排.jpeg",
+        "contentPath": "content/dishes/meat_dish/煎烤羊排/煎烤羊排.md"
       },
       {
         "id": "meat_dish-牛排",
         "name": "牛排",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/牛排.jpeg"
+        "imagePath": "images/dishes/meat_dish/牛排.jpeg",
+        "contentPath": "content/dishes/meat_dish/牛排/牛排.md"
       },
       {
         "id": "meat_dish-猪皮冻",
         "name": "猪皮冻",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/猪皮冻.jpeg"
+        "imagePath": "images/dishes/meat_dish/猪皮冻.jpeg",
+        "contentPath": "content/dishes/meat_dish/猪皮冻/猪皮冻.md"
       },
       {
         "id": "meat_dish-猪肉烩酸菜",
         "name": "猪肉烩酸菜",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/猪肉烩酸菜.jpeg"
+        "imagePath": "images/dishes/meat_dish/猪肉烩酸菜.jpeg",
+        "contentPath": "content/dishes/meat_dish/猪肉烩酸菜.md"
       },
       {
         "id": "meat_dish-甜辣烤全翅",
         "name": "甜辣烤全翅",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/甜辣烤全翅.jpeg"
+        "imagePath": "images/dishes/meat_dish/甜辣烤全翅.jpeg",
+        "contentPath": "content/dishes/meat_dish/甜辣烤全翅.md"
       },
       {
         "id": "meat_dish-番茄红酱",
         "name": "番茄红酱",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/番茄红酱.jpeg"
+        "imagePath": "images/dishes/meat_dish/番茄红酱.jpeg",
+        "contentPath": "content/dishes/meat_dish/番茄红酱.md"
       },
       {
         "id": "meat_dish-瘦肉土豆片",
         "name": "瘦肉土豆片",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/瘦肉土豆片.jpeg"
+        "imagePath": "images/dishes/meat_dish/瘦肉土豆片.jpeg",
+        "contentPath": "content/dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md"
       },
       {
         "id": "meat_dish-白菜猪肉炖粉条",
         "name": "白菜猪肉炖粉条",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/白菜猪肉炖粉条.jpeg"
+        "imagePath": "images/dishes/meat_dish/白菜猪肉炖粉条.jpeg",
+        "contentPath": "content/dishes/meat_dish/白菜猪肉炖粉条.md"
       },
       {
         "id": "meat_dish-简易红烧肉",
         "name": "简易红烧肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/简易红烧肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/简易红烧肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/红烧肉/简易红烧肉.md"
       },
       {
         "id": "meat_dish-粉蒸肉",
         "name": "粉蒸肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/粉蒸肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/粉蒸肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/粉蒸肉.md"
       },
       {
         "id": "meat_dish-糖醋排骨",
         "name": "糖醋排骨",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/糖醋排骨.jpeg"
+        "imagePath": "images/dishes/meat_dish/糖醋排骨.jpeg",
+        "contentPath": "content/dishes/meat_dish/糖醋排骨/糖醋排骨.md"
       },
       {
         "id": "meat_dish-糖醋里脊",
         "name": "糖醋里脊",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/糖醋里脊.jpeg"
+        "imagePath": "images/dishes/meat_dish/糖醋里脊.jpeg",
+        "contentPath": "content/dishes/meat_dish/糖醋里脊.md"
       },
       {
         "id": "meat_dish-红烧猪蹄",
         "name": "红烧猪蹄",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/红烧猪蹄.jpeg"
+        "imagePath": "images/dishes/meat_dish/红烧猪蹄.jpeg",
+        "contentPath": "content/dishes/meat_dish/红烧猪蹄/红烧猪蹄.md"
       },
       {
         "id": "meat_dish-红烧肉",
@@ -979,223 +1133,260 @@
         "id": "meat_dish-红烧鸡翅",
         "name": "红烧鸡翅",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/红烧鸡翅.jpeg"
+        "imagePath": "images/dishes/meat_dish/红烧鸡翅.jpeg",
+        "contentPath": "content/dishes/meat_dish/红烧鸡翅.md"
       },
       {
         "id": "meat_dish-羊排焖面",
         "name": "羊排焖面",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/羊排焖面.jpeg"
+        "imagePath": "images/dishes/meat_dish/羊排焖面.jpeg",
+        "contentPath": "content/dishes/meat_dish/羊排焖面/羊排焖面.md"
       },
       {
         "id": "meat_dish-老妈蹄花",
         "name": "老妈蹄花",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/老妈蹄花.jpeg"
+        "imagePath": "images/dishes/meat_dish/老妈蹄花.jpeg",
+        "contentPath": "content/dishes/meat_dish/老妈蹄花/老妈蹄花.md"
       },
       {
         "id": "meat_dish-老式锅包肉",
         "name": "老式锅包肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/老式锅包肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/老式锅包肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/老式锅包肉/老式锅包肉.md"
       },
       {
         "id": "meat_dish-肉饼炖蛋",
         "name": "肉饼炖蛋",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/肉饼炖蛋.jpeg"
+        "imagePath": "images/dishes/meat_dish/肉饼炖蛋.jpeg",
+        "contentPath": "content/dishes/meat_dish/肉饼炖蛋.md"
       },
       {
         "id": "meat_dish-腐乳肉",
         "name": "腐乳肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/腐乳肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/腐乳肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/腐乳肉.md"
       },
       {
         "id": "meat_dish-芥末罗氏虾",
         "name": "芥末罗氏虾",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/芥末罗氏虾.jpeg"
+        "imagePath": "images/dishes/meat_dish/芥末罗氏虾.jpeg",
+        "contentPath": "content/dishes/meat_dish/芥末罗氏虾/芥末罗氏虾.md"
       },
       {
         "id": "meat_dish-茭白炒肉",
         "name": "茭白炒肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/茭白炒肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/茭白炒肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/茭白炒肉/茭白炒肉.md"
       },
       {
         "id": "meat_dish-荔枝肉",
         "name": "荔枝肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/荔枝肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/荔枝肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/荔枝肉/荔枝肉.md"
       },
       {
         "id": "meat_dish-荷兰豆炒腊肠",
         "name": "荷兰豆炒腊肠",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/荷兰豆炒腊肠.jpeg"
+        "imagePath": "images/dishes/meat_dish/荷兰豆炒腊肠.jpeg",
+        "contentPath": "content/dishes/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md"
       },
       {
         "id": "meat_dish-萝卜炖羊排",
         "name": "萝卜炖羊排",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/萝卜炖羊排.jpeg"
+        "imagePath": "images/dishes/meat_dish/萝卜炖羊排.jpeg",
+        "contentPath": "content/dishes/meat_dish/萝卜炖羊排.md"
       },
       {
         "id": "meat_dish-蒜苔炒肉末",
         "name": "蒜苔炒肉末",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/蒜苔炒肉末.jpeg"
+        "imagePath": "images/dishes/meat_dish/蒜苔炒肉末.jpeg",
+        "contentPath": "content/dishes/meat_dish/蒜苔炒肉末.md"
       },
       {
         "id": "meat_dish-虎皮肘子",
         "name": "虎皮肘子",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/虎皮肘子.jpeg"
+        "imagePath": "images/dishes/meat_dish/虎皮肘子.jpeg",
+        "contentPath": "content/dishes/meat_dish/虎皮肘子.md"
       },
       {
         "id": "meat_dish-蚂蚁上树",
         "name": "蚂蚁上树",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/蚂蚁上树.jpeg"
+        "imagePath": "images/dishes/meat_dish/蚂蚁上树.jpeg",
+        "contentPath": "content/dishes/meat_dish/蚂蚁上树.md"
       },
       {
         "id": "meat_dish-血浆鸭",
         "name": "血浆鸭",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/血浆鸭.jpeg"
+        "imagePath": "images/dishes/meat_dish/血浆鸭.jpeg",
+        "contentPath": "content/dishes/meat_dish/血浆鸭/血浆鸭.md"
       },
       {
         "id": "meat_dish-西红柿牛腩",
         "name": "西红柿牛腩",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/西红柿牛腩.jpeg"
+        "imagePath": "images/dishes/meat_dish/西红柿牛腩.jpeg",
+        "contentPath": "content/dishes/meat_dish/西红柿牛腩/西红柿牛腩.md"
       },
       {
         "id": "meat_dish-豆豉鲮鱼油麦菜",
         "name": "豆豉鲮鱼油麦菜",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/豆豉鲮鱼油麦菜.jpeg"
+        "imagePath": "images/dishes/meat_dish/豆豉鲮鱼油麦菜.jpeg",
+        "contentPath": "content/dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md"
       },
       {
         "id": "meat_dish-豉汁排骨",
         "name": "豉汁排骨",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/豉汁排骨.jpeg"
+        "imagePath": "images/dishes/meat_dish/豉汁排骨.jpeg",
+        "contentPath": "content/dishes/meat_dish/豉汁排骨.md"
       },
       {
         "id": "meat_dish-豉汁蒸白鱔",
         "name": "豉汁蒸白鱔",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/豉汁蒸白鱔.jpeg"
+        "imagePath": "images/dishes/meat_dish/豉汁蒸白鱔.jpeg",
+        "contentPath": "content/dishes/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔.md"
       },
       {
         "id": "meat_dish-贵州辣子鸡",
         "name": "贵州辣子鸡",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/贵州辣子鸡.jpeg"
+        "imagePath": "images/dishes/meat_dish/贵州辣子鸡.jpeg",
+        "contentPath": "content/dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md"
       },
       {
         "id": "meat_dish-辣椒炒肉",
         "name": "辣椒炒肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/辣椒炒肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/辣椒炒肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/辣椒炒肉.md"
       },
       {
         "id": "meat_dish-酱排骨",
         "name": "酱排骨",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/酱排骨.jpeg"
+        "imagePath": "images/dishes/meat_dish/酱排骨.jpeg",
+        "contentPath": "content/dishes/meat_dish/酱排骨/酱排骨.md"
       },
       {
         "id": "meat_dish-酱牛肉",
         "name": "酱牛肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/酱牛肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/酱牛肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/酱牛肉/酱牛肉.md"
       },
       {
         "id": "meat_dish-醉排骨",
         "name": "醉排骨",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/醉排骨.jpeg"
+        "imagePath": "images/dishes/meat_dish/醉排骨.jpeg",
+        "contentPath": "content/dishes/meat_dish/醉排骨/醉排骨.md"
       },
       {
         "id": "meat_dish-青椒土豆炒肉",
         "name": "青椒土豆炒肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/青椒土豆炒肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/青椒土豆炒肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md"
       },
       {
         "id": "meat_dish-香干肉丝",
         "name": "香干肉丝",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/香干肉丝.jpeg"
+        "imagePath": "images/dishes/meat_dish/香干肉丝.jpeg",
+        "contentPath": "content/dishes/meat_dish/香干肉丝.md"
       },
       {
         "id": "meat_dish-香煎五花肉",
         "name": "香煎五花肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/香煎五花肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/香煎五花肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/香煎五花肉/香煎五花肉.md"
       },
       {
         "id": "meat_dish-香菇滑鸡",
         "name": "香菇滑鸡",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/香菇滑鸡.jpeg"
+        "imagePath": "images/dishes/meat_dish/香菇滑鸡.jpeg",
+        "contentPath": "content/dishes/meat_dish/香菇滑鸡/香菇滑鸡.md"
       },
       {
         "id": "meat_dish-香辣鸡爪煲",
         "name": "香辣鸡爪煲",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/香辣鸡爪煲.jpeg"
+        "imagePath": "images/dishes/meat_dish/香辣鸡爪煲.jpeg",
+        "contentPath": "content/dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md"
       },
       {
         "id": "meat_dish-鱼香肉丝",
         "name": "鱼香肉丝",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/鱼香肉丝.jpeg"
+        "imagePath": "images/dishes/meat_dish/鱼香肉丝.jpeg",
+        "contentPath": "content/dishes/meat_dish/鱼香肉丝.md"
       },
       {
         "id": "meat_dish-鱼香茄子",
         "name": "鱼香茄子",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/鱼香茄子.jpeg"
+        "imagePath": "images/dishes/meat_dish/鱼香茄子.jpeg",
+        "contentPath": "content/dishes/meat_dish/鱼香茄子/鱼香茄子.md"
       },
       {
         "id": "meat_dish-麻婆豆腐",
         "name": "麻婆豆腐",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/麻婆豆腐.jpeg"
+        "imagePath": "images/dishes/meat_dish/麻婆豆腐.jpeg",
+        "contentPath": "content/dishes/meat_dish/麻婆豆腐/麻婆豆腐.md"
       },
       {
         "id": "meat_dish-麻辣香锅",
         "name": "麻辣香锅",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/麻辣香锅.jpeg"
+        "imagePath": "images/dishes/meat_dish/麻辣香锅.jpeg",
+        "contentPath": "content/dishes/meat_dish/麻辣香锅.md"
       },
       {
         "id": "meat_dish-黄焖鸡",
         "name": "黄焖鸡",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/黄焖鸡.jpeg"
+        "imagePath": "images/dishes/meat_dish/黄焖鸡.jpeg",
+        "contentPath": "content/dishes/meat_dish/黄焖鸡.md"
       },
       {
         "id": "meat_dish-黄瓜炒肉",
         "name": "黄瓜炒肉",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/黄瓜炒肉.jpeg"
+        "imagePath": "images/dishes/meat_dish/黄瓜炒肉.jpeg",
+        "contentPath": "content/dishes/meat_dish/黄瓜炒肉.md"
       },
       {
         "id": "meat_dish-黑椒牛柳",
         "name": "黑椒牛柳",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/黑椒牛柳.jpeg"
+        "imagePath": "images/dishes/meat_dish/黑椒牛柳.jpeg",
+        "contentPath": "content/dishes/meat_dish/黑椒牛柳/黑椒牛柳.md"
       },
       {
         "id": "meat_dish-黔式腊肠娃娃菜",
         "name": "黔式腊肠娃娃菜",
         "category": "meat_dish",
-        "imagePath": "images/dishes/meat_dish/黔式腊肠娃娃菜.jpeg"
+        "imagePath": "images/dishes/meat_dish/黔式腊肠娃娃菜.jpeg",
+        "contentPath": "content/dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md"
       }
     ]
   },
@@ -1209,61 +1400,71 @@
         "id": "semi-finished-凉皮",
         "name": "凉皮",
         "category": "semi-finished",
-        "imagePath": "images/dishes/semi-finished/凉皮.jpeg"
+        "imagePath": "images/dishes/semi-finished/凉皮.jpeg",
+        "contentPath": "content/dishes/semi-finished/凉皮.md"
       },
       {
         "id": "semi-finished-半成品意面",
         "name": "半成品意面",
         "category": "semi-finished",
-        "imagePath": "images/dishes/semi-finished/半成品意面.jpeg"
+        "imagePath": "images/dishes/semi-finished/半成品意面.jpeg",
+        "contentPath": "content/dishes/semi-finished/半成品意面.md"
       },
       {
         "id": "semi-finished-懒人蛋挞",
         "name": "懒人蛋挞",
         "category": "semi-finished",
-        "imagePath": "images/dishes/semi-finished/懒人蛋挞.jpeg"
+        "imagePath": "images/dishes/semi-finished/懒人蛋挞.jpeg",
+        "contentPath": "content/dishes/semi-finished/懒人蛋挞/懒人蛋挞.md"
       },
       {
         "id": "semi-finished-炸薯条",
         "name": "炸薯条",
         "category": "semi-finished",
-        "imagePath": "images/dishes/semi-finished/炸薯条.jpeg"
+        "imagePath": "images/dishes/semi-finished/炸薯条.jpeg",
+        "contentPath": "content/dishes/semi-finished/炸薯条/炸薯条.md"
       },
       {
         "id": "semi-finished-牛油火锅底料",
         "name": "牛油火锅底料",
         "category": "semi-finished",
-        "imagePath": "images/dishes/semi-finished/牛油火锅底料.jpeg"
+        "imagePath": "images/dishes/semi-finished/牛油火锅底料.jpeg",
+        "contentPath": "content/dishes/semi-finished/牛油火锅底料.md"
       },
       {
         "id": "semi-finished-空气炸锅羊排",
         "name": "空气炸锅羊排",
         "category": "semi-finished",
-        "imagePath": "images/dishes/semi-finished/空气炸锅羊排.jpeg"
+        "imagePath": "images/dishes/semi-finished/空气炸锅羊排.jpeg",
+        "contentPath": "content/dishes/semi-finished/空气炸锅羊排/空气炸锅羊排.md"
       },
       {
         "id": "semi-finished-空气炸锅鸡翅中",
         "name": "空气炸锅鸡翅中",
         "category": "semi-finished",
-        "imagePath": "images/dishes/semi-finished/空气炸锅鸡翅中.jpeg"
+        "imagePath": "images/dishes/semi-finished/空气炸锅鸡翅中.jpeg",
+        "contentPath": "content/dishes/semi-finished/空气炸锅鸡翅中/空气炸锅鸡翅中.md"
       },
       {
         "id": "semi-finished-速冻水饺",
         "name": "速冻水饺",
         "category": "semi-finished",
-        "imagePath": "images/dishes/semi-finished/速冻水饺.jpeg"
+        "imagePath": "images/dishes/semi-finished/速冻水饺.jpeg",
+        "contentPath": "content/dishes/semi-finished/速冻水饺.md"
       },
       {
         "id": "semi-finished-速冻汤圆",
         "name": "速冻汤圆",
         "category": "semi-finished",
-        "imagePath": "images/dishes/semi-finished/速冻汤圆.jpeg"
+        "imagePath": "images/dishes/semi-finished/速冻汤圆.jpeg",
+        "contentPath": "content/dishes/semi-finished/速冻汤圆/速冻汤圆.md"
       },
       {
         "id": "semi-finished-速冻馄饨",
         "name": "速冻馄饨",
         "category": "semi-finished",
-        "imagePath": "images/dishes/semi-finished/速冻馄饨.jpeg"
+        "imagePath": "images/dishes/semi-finished/速冻馄饨.jpeg",
+        "contentPath": "content/dishes/semi-finished/速冻馄饨.md"
       }
     ]
   },
@@ -1277,127 +1478,148 @@
         "id": "soup-勾芡香菇汤",
         "name": "勾芡香菇汤",
         "category": "soup",
-        "imagePath": "images/dishes/soup/勾芡香菇汤.jpeg"
+        "imagePath": "images/dishes/soup/勾芡香菇汤.jpeg",
+        "contentPath": "content/dishes/soup/勾芡香菇汤/勾芡香菇汤.md"
       },
       {
         "id": "soup-奶油蘑菇汤",
         "name": "奶油蘑菇汤",
         "category": "soup",
-        "imagePath": "images/dishes/soup/奶油蘑菇汤.jpeg"
+        "imagePath": "images/dishes/soup/奶油蘑菇汤.jpeg",
+        "contentPath": "content/dishes/soup/奶油蘑菇汤.md"
       },
       {
         "id": "soup-小米粥",
         "name": "小米粥",
         "category": "soup",
-        "imagePath": "images/dishes/soup/小米粥.jpeg"
+        "imagePath": "images/dishes/soup/小米粥.jpeg",
+        "contentPath": "content/dishes/soup/小米粥.md"
       },
       {
         "id": "soup-排骨苦瓜汤",
         "name": "排骨苦瓜汤",
         "category": "soup",
-        "imagePath": "images/dishes/soup/排骨苦瓜汤.jpeg"
+        "imagePath": "images/dishes/soup/排骨苦瓜汤.jpeg",
+        "contentPath": "content/dishes/soup/排骨苦瓜汤/排骨苦瓜汤.md"
       },
       {
         "id": "soup-昂刺鱼豆腐汤",
         "name": "昂刺鱼豆腐汤",
         "category": "soup",
-        "imagePath": "images/dishes/soup/昂刺鱼豆腐汤.jpeg"
+        "imagePath": "images/dishes/soup/昂刺鱼豆腐汤.jpeg",
+        "contentPath": "content/dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md"
       },
       {
         "id": "soup-朱雀汤",
         "name": "朱雀汤",
         "category": "soup",
-        "imagePath": "images/dishes/soup/朱雀汤.jpeg"
+        "imagePath": "images/dishes/soup/朱雀汤.jpeg",
+        "contentPath": "content/dishes/soup/朱雀汤/朱雀汤.md"
       },
       {
         "id": "soup-玉米排骨汤",
         "name": "玉米排骨汤",
         "category": "soup",
-        "imagePath": "images/dishes/soup/玉米排骨汤.jpeg"
+        "imagePath": "images/dishes/soup/玉米排骨汤.jpeg",
+        "contentPath": "content/dishes/soup/玉米排骨汤/玉米排骨汤.md"
       },
       {
         "id": "soup-生汆丸子汤",
         "name": "生汆丸子汤",
         "category": "soup",
-        "imagePath": "images/dishes/soup/生汆丸子汤.jpeg"
+        "imagePath": "images/dishes/soup/生汆丸子汤.jpeg",
+        "contentPath": "content/dishes/soup/生汆丸子汤.md"
       },
       {
         "id": "soup-番茄牛肉蛋花汤",
         "name": "番茄牛肉蛋花汤",
         "category": "soup",
-        "imagePath": "images/dishes/soup/番茄牛肉蛋花汤.jpeg"
+        "imagePath": "images/dishes/soup/番茄牛肉蛋花汤.jpeg",
+        "contentPath": "content/dishes/soup/番茄牛肉蛋花汤.md"
       },
       {
         "id": "soup-皮蛋瘦肉粥",
         "name": "皮蛋瘦肉粥",
         "category": "soup",
-        "imagePath": "images/dishes/soup/皮蛋瘦肉粥.jpeg"
+        "imagePath": "images/dishes/soup/皮蛋瘦肉粥.jpeg",
+        "contentPath": "content/dishes/soup/皮蛋瘦肉粥.md"
       },
       {
         "id": "soup-米粥",
         "name": "米粥",
         "category": "soup",
-        "imagePath": "images/dishes/soup/米粥.jpeg"
+        "imagePath": "images/dishes/soup/米粥.jpeg",
+        "contentPath": "content/dishes/soup/米粥.md"
       },
       {
         "id": "soup-紫菜蛋花汤",
         "name": "紫菜蛋花汤",
         "category": "soup",
-        "imagePath": "images/dishes/soup/紫菜蛋花汤.jpeg"
+        "imagePath": "images/dishes/soup/紫菜蛋花汤.jpeg",
+        "contentPath": "content/dishes/soup/紫菜蛋花汤.md"
       },
       {
         "id": "soup-罗宋汤",
         "name": "罗宋汤",
         "category": "soup",
-        "imagePath": "images/dishes/soup/罗宋汤.jpeg"
+        "imagePath": "images/dishes/soup/罗宋汤.jpeg",
+        "contentPath": "content/dishes/soup/罗宋汤.md"
       },
       {
         "id": "soup-羊肉汤",
         "name": "羊肉汤",
         "category": "soup",
-        "imagePath": "images/dishes/soup/羊肉汤.jpeg"
+        "imagePath": "images/dishes/soup/羊肉汤.jpeg",
+        "contentPath": "content/dishes/soup/羊肉汤/羊肉汤.md"
       },
       {
         "id": "soup-腊八粥",
         "name": "腊八粥",
         "category": "soup",
-        "imagePath": "images/dishes/soup/腊八粥.jpeg"
+        "imagePath": "images/dishes/soup/腊八粥.jpeg",
+        "contentPath": "content/dishes/soup/腊八粥.md"
       },
       {
         "id": "soup-菌菇炖乳鸽",
         "name": "菌菇炖乳鸽",
         "category": "soup",
-        "imagePath": "images/dishes/soup/菌菇炖乳鸽.jpeg"
+        "imagePath": "images/dishes/soup/菌菇炖乳鸽.jpeg",
+        "contentPath": "content/dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md"
       },
       {
         "id": "soup-西红柿鸡蛋汤",
         "name": "西红柿鸡蛋汤",
         "category": "soup",
-        "imagePath": "images/dishes/soup/西红柿鸡蛋汤.jpeg"
+        "imagePath": "images/dishes/soup/西红柿鸡蛋汤.jpeg",
+        "contentPath": "content/dishes/soup/西红柿鸡蛋汤.md"
       },
       {
         "id": "soup-金针菇汤",
         "name": "金针菇汤",
         "category": "soup",
-        "imagePath": "images/dishes/soup/金针菇汤.jpeg"
+        "imagePath": "images/dishes/soup/金针菇汤.jpeg",
+        "contentPath": "content/dishes/soup/金针菇汤.md"
       },
       {
         "id": "soup-银耳莲子粥",
         "name": "银耳莲子粥",
         "category": "soup",
-        "imagePath": "images/dishes/soup/银耳莲子粥.jpeg"
+        "imagePath": "images/dishes/soup/银耳莲子粥.jpeg",
+        "contentPath": "content/dishes/soup/银耳莲子粥/银耳莲子粥.md"
       },
       {
         "id": "soup-陈皮排骨汤",
         "name": "陈皮排骨汤",
         "category": "soup",
-        "imagePath": "images/dishes/soup/陈皮排骨汤.jpeg"
+        "imagePath": "images/dishes/soup/陈皮排骨汤.jpeg",
+        "contentPath": "content/dishes/soup/陈皮排骨汤.md"
       },
       {
         "id": "soup-黄瓜皮蛋汤",
         "name": "黄瓜皮蛋汤",
         "category": "soup",
-        "imagePath": "images/dishes/soup/黄瓜皮蛋汤.jpeg"
+        "imagePath": "images/dishes/soup/黄瓜皮蛋汤.jpeg",
+        "contentPath": "content/dishes/soup/黄瓜皮蛋汤.md"
       }
     ]
   },
@@ -1411,301 +1633,351 @@
         "id": "staple-中式馅饼",
         "name": "中式馅饼",
         "category": "staple",
-        "imagePath": "images/dishes/staple/中式馅饼.jpeg"
+        "imagePath": "images/dishes/staple/中式馅饼.jpeg",
+        "contentPath": "content/dishes/staple/中式馅饼/中式馅饼.md"
       },
       {
         "id": "staple-可乐炒饭",
         "name": "可乐炒饭",
         "category": "staple",
-        "imagePath": "images/dishes/staple/可乐炒饭.jpeg"
+        "imagePath": "images/dishes/staple/可乐炒饭.jpeg",
+        "contentPath": "content/dishes/staple/可乐炒饭.md"
       },
       {
         "id": "staple-咸肉菜饭",
         "name": "咸肉菜饭",
         "category": "staple",
-        "imagePath": "images/dishes/staple/咸肉菜饭.jpeg"
+        "imagePath": "images/dishes/staple/咸肉菜饭.jpeg",
+        "contentPath": "content/dishes/staple/咸肉菜饭.md"
       },
       {
         "id": "staple-基础牛奶面包",
         "name": "基础牛奶面包",
         "category": "staple",
-        "imagePath": "images/dishes/staple/基础牛奶面包.jpeg"
+        "imagePath": "images/dishes/staple/基础牛奶面包.jpeg",
+        "contentPath": "content/dishes/staple/基础牛奶面包/基础牛奶面包.md"
       },
       {
         "id": "staple-微波炉腊肠煲仔饭",
         "name": "微波炉腊肠煲仔饭",
         "category": "staple",
-        "imagePath": "images/dishes/staple/微波炉腊肠煲仔饭.jpeg"
+        "imagePath": "images/dishes/staple/微波炉腊肠煲仔饭.jpeg",
+        "contentPath": "content/dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md"
       },
       {
         "id": "staple-意式肉酱面",
         "name": "意式肉酱面",
         "category": "staple",
-        "imagePath": "images/dishes/staple/意式肉酱面.jpeg"
+        "imagePath": "images/dishes/staple/意式肉酱面.jpeg",
+        "contentPath": "content/dishes/staple/意式肉酱面/意式肉酱面.md"
       },
       {
         "id": "staple-手工水饺",
         "name": "手工水饺",
         "category": "staple",
-        "imagePath": "images/dishes/staple/手工水饺.jpeg"
+        "imagePath": "images/dishes/staple/手工水饺.jpeg",
+        "contentPath": "content/dishes/staple/手工水饺.md"
       },
       {
         "id": "staple-扬州炒饭",
         "name": "扬州炒饭",
         "category": "staple",
-        "imagePath": "images/dishes/staple/扬州炒饭.jpeg"
+        "imagePath": "images/dishes/staple/扬州炒饭.jpeg",
+        "contentPath": "content/dishes/staple/扬州炒饭/扬州炒饭.md"
       },
       {
         "id": "staple-披萨饼皮",
         "name": "披萨饼皮",
         "category": "staple",
-        "imagePath": "images/dishes/staple/披萨饼皮.jpeg"
+        "imagePath": "images/dishes/staple/披萨饼皮.jpeg",
+        "contentPath": "content/dishes/staple/披萨饼皮/披萨饼皮.md"
       },
       {
         "id": "staple-日式咖喱饭",
         "name": "日式咖喱饭",
         "category": "staple",
-        "imagePath": "images/dishes/staple/日式咖喱饭.jpeg"
+        "imagePath": "images/dishes/staple/日式咖喱饭.jpeg",
+        "contentPath": "content/dishes/staple/日式咖喱饭/日式咖喱饭.md"
       },
       {
         "id": "staple-日式肥牛丼饭",
         "name": "日式肥牛丼饭",
         "category": "staple",
-        "imagePath": "images/dishes/staple/日式肥牛丼饭.jpeg"
+        "imagePath": "images/dishes/staple/日式肥牛丼饭.jpeg",
+        "contentPath": "content/dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md"
       },
       {
         "id": "staple-汤面",
         "name": "汤面",
         "category": "staple",
-        "imagePath": "images/dishes/staple/汤面.jpeg"
+        "imagePath": "images/dishes/staple/汤面.jpeg",
+        "contentPath": "content/dishes/staple/汤面.md"
       },
       {
         "id": "staple-河南蒸面条",
         "name": "河南蒸面条",
         "category": "staple",
-        "imagePath": "images/dishes/staple/河南蒸面条.jpeg"
+        "imagePath": "images/dishes/staple/河南蒸面条.jpeg",
+        "contentPath": "content/dishes/staple/河南蒸面条/河南蒸面条.md"
       },
       {
         "id": "staple-火腿饭团",
         "name": "火腿饭团",
         "category": "staple",
-        "imagePath": "images/dishes/staple/火腿饭团.jpeg"
+        "imagePath": "images/dishes/staple/火腿饭团.jpeg",
+        "contentPath": "content/dishes/staple/火腿饭团/火腿饭团.md"
       },
       {
         "id": "staple-炒凉粉",
         "name": "炒凉粉",
         "category": "staple",
-        "imagePath": "images/dishes/staple/炒凉粉.jpeg"
+        "imagePath": "images/dishes/staple/炒凉粉.jpeg",
+        "contentPath": "content/dishes/staple/炒凉粉/炒凉粉.md"
       },
       {
         "id": "staple-炒年糕",
         "name": "炒年糕",
         "category": "staple",
-        "imagePath": "images/dishes/staple/炒年糕.jpeg"
+        "imagePath": "images/dishes/staple/炒年糕.jpeg",
+        "contentPath": "content/dishes/staple/炒年糕.md"
       },
       {
         "id": "staple-炒意大利面",
         "name": "炒意大利面",
         "category": "staple",
-        "imagePath": "images/dishes/staple/炒意大利面.jpeg"
+        "imagePath": "images/dishes/staple/炒意大利面.jpeg",
+        "contentPath": "content/dishes/staple/炒意大利面/炒意大利面.md"
       },
       {
         "id": "staple-炒方便面",
         "name": "炒方便面",
         "category": "staple",
-        "imagePath": "images/dishes/staple/炒方便面.jpeg"
+        "imagePath": "images/dishes/staple/炒方便面.jpeg",
+        "contentPath": "content/dishes/staple/炒方便面.md"
       },
       {
         "id": "staple-炒河粉",
         "name": "炒河粉",
         "category": "staple",
-        "imagePath": "images/dishes/staple/炒河粉.jpeg"
+        "imagePath": "images/dishes/staple/炒河粉.jpeg",
+        "contentPath": "content/dishes/staple/炒河粉.md"
       },
       {
         "id": "staple-炒馍",
         "name": "炒馍",
         "category": "staple",
-        "imagePath": "images/dishes/staple/炒馍.jpeg"
+        "imagePath": "images/dishes/staple/炒馍.jpeg",
+        "contentPath": "content/dishes/staple/炒馍.md"
       },
       {
         "id": "staple-炸酱面",
         "name": "炸酱面",
         "category": "staple",
-        "imagePath": "images/dishes/staple/炸酱面.jpeg"
+        "imagePath": "images/dishes/staple/炸酱面.jpeg",
+        "contentPath": "content/dishes/staple/炸酱面.md"
       },
       {
         "id": "staple-烙饼",
         "name": "烙饼",
         "category": "staple",
-        "imagePath": "images/dishes/staple/烙饼.jpeg"
+        "imagePath": "images/dishes/staple/烙饼.jpeg",
+        "contentPath": "content/dishes/staple/烙饼/烙饼.md"
       },
       {
         "id": "staple-热干面",
         "name": "热干面",
         "category": "staple",
-        "imagePath": "images/dishes/staple/热干面.jpeg"
+        "imagePath": "images/dishes/staple/热干面.jpeg",
+        "contentPath": "content/dishes/staple/热干面.md"
       },
       {
         "id": "staple-照烧鸡腿饭",
         "name": "照烧鸡腿饭",
         "category": "staple",
-        "imagePath": "images/dishes/staple/照烧鸡腿饭.jpeg"
+        "imagePath": "images/dishes/staple/照烧鸡腿饭.jpeg",
+        "contentPath": "content/dishes/staple/照烧鸡腿饭.md"
       },
       {
         "id": "staple-煮泡面加蛋",
         "name": "煮泡面加蛋",
         "category": "staple",
-        "imagePath": "images/dishes/staple/煮泡面加蛋.jpeg"
+        "imagePath": "images/dishes/staple/煮泡面加蛋.jpeg",
+        "contentPath": "content/dishes/staple/煮泡面加蛋.md"
       },
       {
         "id": "staple-煮锅蒸米饭",
         "name": "煮锅蒸米饭",
         "category": "staple",
-        "imagePath": "images/dishes/staple/煮锅蒸米饭.jpeg"
+        "imagePath": "images/dishes/staple/煮锅蒸米饭.jpeg",
+        "contentPath": "content/dishes/staple/米饭/煮锅蒸米饭.md"
       },
       {
         "id": "staple-猪油拌饭",
         "name": "猪油拌饭",
         "category": "staple",
-        "imagePath": "images/dishes/staple/猪油拌饭.jpeg"
+        "imagePath": "images/dishes/staple/猪油拌饭.jpeg",
+        "contentPath": "content/dishes/staple/猪油拌饭.md"
       },
       {
         "id": "staple-电饭煲蒸米饭",
         "name": "电饭煲蒸米饭",
         "category": "staple",
-        "imagePath": "images/dishes/staple/电饭煲蒸米饭.jpeg"
+        "imagePath": "images/dishes/staple/电饭煲蒸米饭.jpeg",
+        "contentPath": "content/dishes/staple/米饭/电饭煲蒸米饭.md"
       },
       {
         "id": "staple-老友猪肉粉",
         "name": "老友猪肉粉",
         "category": "staple",
-        "imagePath": "images/dishes/staple/老友猪肉粉.jpeg"
+        "imagePath": "images/dishes/staple/老友猪肉粉.jpeg",
+        "contentPath": "content/dishes/staple/老友猪肉粉/老友猪肉粉.md"
       },
       {
         "id": "staple-老干妈拌面",
         "name": "老干妈拌面",
         "category": "staple",
-        "imagePath": "images/dishes/staple/老干妈拌面.jpeg"
+        "imagePath": "images/dishes/staple/老干妈拌面.jpeg",
+        "contentPath": "content/dishes/staple/老干妈拌面.md"
       },
       {
         "id": "staple-肉蛋盖饭",
         "name": "肉蛋盖饭",
         "category": "staple",
-        "imagePath": "images/dishes/staple/肉蛋盖饭.jpeg"
+        "imagePath": "images/dishes/staple/肉蛋盖饭.jpeg",
+        "contentPath": "content/dishes/staple/肉蛋盖饭.md"
       },
       {
         "id": "staple-芝麻烧饼",
         "name": "芝麻烧饼",
         "category": "staple",
-        "imagePath": "images/dishes/staple/芝麻烧饼.jpeg"
+        "imagePath": "images/dishes/staple/芝麻烧饼.jpeg",
+        "contentPath": "content/dishes/staple/烧饼/芝麻烧饼.md"
       },
       {
         "id": "staple-茄子肉煎饼",
         "name": "茄子肉煎饼",
         "category": "staple",
-        "imagePath": "images/dishes/staple/茄子肉煎饼.jpeg"
+        "imagePath": "images/dishes/staple/茄子肉煎饼.jpeg",
+        "contentPath": "content/dishes/staple/茄子肉煎饼/茄子肉煎饼.md"
       },
       {
         "id": "staple-葱油拌面",
         "name": "葱油拌面",
         "category": "staple",
-        "imagePath": "images/dishes/staple/葱油拌面.jpeg"
+        "imagePath": "images/dishes/staple/葱油拌面.jpeg",
+        "contentPath": "content/dishes/staple/葱油拌面.md"
       },
       {
         "id": "staple-蒸卤面",
         "name": "蒸卤面",
         "category": "staple",
-        "imagePath": "images/dishes/staple/蒸卤面.jpeg"
+        "imagePath": "images/dishes/staple/蒸卤面.jpeg",
+        "contentPath": "content/dishes/staple/蒸卤面.md"
       },
       {
         "id": "staple-蛋包饭",
         "name": "蛋包饭",
         "category": "staple",
-        "imagePath": "images/dishes/staple/蛋包饭.jpeg"
+        "imagePath": "images/dishes/staple/蛋包饭.jpeg",
+        "contentPath": "content/dishes/staple/蛋包饭.md"
       },
       {
         "id": "staple-蛋炒饭",
         "name": "蛋炒饭",
         "category": "staple",
-        "imagePath": "images/dishes/staple/蛋炒饭.jpeg"
+        "imagePath": "images/dishes/staple/蛋炒饭.jpeg",
+        "contentPath": "content/dishes/staple/蛋炒饭.md"
       },
       {
         "id": "staple-螺蛳粉",
         "name": "螺蛳粉",
         "category": "staple",
-        "imagePath": "images/dishes/staple/螺蛳粉.jpeg"
+        "imagePath": "images/dishes/staple/螺蛳粉.jpeg",
+        "contentPath": "content/dishes/staple/螺蛳粉.md"
       },
       {
         "id": "staple-西红柿鸡蛋挂面",
         "name": "西红柿鸡蛋挂面",
         "category": "staple",
-        "imagePath": "images/dishes/staple/西红柿鸡蛋挂面.jpeg"
+        "imagePath": "images/dishes/staple/西红柿鸡蛋挂面.jpeg",
+        "contentPath": "content/dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md"
       },
       {
         "id": "staple-豆角焖面",
         "name": "豆角焖面",
         "category": "staple",
-        "imagePath": "images/dishes/staple/豆角焖面.jpeg"
+        "imagePath": "images/dishes/staple/豆角焖面.jpeg",
+        "contentPath": "content/dishes/staple/豆角焖面/豆角焖面.md"
       },
       {
         "id": "staple-酱拌荞麦面",
         "name": "酱拌荞麦面",
         "category": "staple",
-        "imagePath": "images/dishes/staple/酱拌荞麦面.jpeg"
+        "imagePath": "images/dishes/staple/酱拌荞麦面.jpeg",
+        "contentPath": "content/dishes/staple/酱拌荞麦面/酱拌荞麦面.md"
       },
       {
         "id": "staple-酸辣蕨根粉",
         "name": "酸辣蕨根粉",
         "category": "staple",
-        "imagePath": "images/dishes/staple/酸辣蕨根粉.jpeg"
+        "imagePath": "images/dishes/staple/酸辣蕨根粉.jpeg",
+        "contentPath": "content/dishes/staple/酸辣蕨根粉.md"
       },
       {
         "id": "staple-醪糟小汤圆",
         "name": "醪糟小汤圆",
         "category": "staple",
-        "imagePath": "images/dishes/staple/醪糟小汤圆.jpeg"
+        "imagePath": "images/dishes/staple/醪糟小汤圆.jpeg",
+        "contentPath": "content/dishes/staple/醪糟小汤圆.md"
       },
       {
         "id": "staple-陕西油泼面",
         "name": "陕西油泼面",
         "category": "staple",
-        "imagePath": "images/dishes/staple/陕西油泼面.jpeg"
+        "imagePath": "images/dishes/staple/陕西油泼面.jpeg",
+        "contentPath": "content/dishes/staple/陕西油泼面/陕西油泼面.md"
       },
       {
         "id": "staple-韩式拌饭",
         "name": "韩式拌饭",
         "category": "staple",
-        "imagePath": "images/dishes/staple/韩式拌饭.jpeg"
+        "imagePath": "images/dishes/staple/韩式拌饭.jpeg",
+        "contentPath": "content/dishes/staple/韩式拌饭/韩式拌饭.md"
       },
       {
         "id": "staple-韭菜盒子",
         "name": "韭菜盒子",
         "category": "staple",
-        "imagePath": "images/dishes/staple/韭菜盒子.jpeg"
+        "imagePath": "images/dishes/staple/韭菜盒子.jpeg",
+        "contentPath": "content/dishes/staple/韭菜盒子.md"
       },
       {
         "id": "staple-鲜肉烧卖",
         "name": "鲜肉烧卖",
         "category": "staple",
-        "imagePath": "images/dishes/staple/鲜肉烧卖.jpeg"
+        "imagePath": "images/dishes/staple/鲜肉烧卖.jpeg",
+        "contentPath": "content/dishes/staple/鲜肉烧卖.md"
       },
       {
         "id": "staple-鲣鱼海苔玉米饭",
         "name": "鲣鱼海苔玉米饭",
         "category": "staple",
-        "imagePath": "images/dishes/staple/鲣鱼海苔玉米饭.jpeg"
+        "imagePath": "images/dishes/staple/鲣鱼海苔玉米饭.jpeg",
+        "contentPath": "content/dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md"
       },
       {
         "id": "staple-麻油拌面",
         "name": "麻油拌面",
         "category": "staple",
-        "imagePath": "images/dishes/staple/麻油拌面.jpeg"
+        "imagePath": "images/dishes/staple/麻油拌面.jpeg",
+        "contentPath": "content/dishes/staple/麻油拌面.md"
       },
       {
         "id": "staple-麻辣减脂荞麦面",
         "name": "麻辣减脂荞麦面",
         "category": "staple",
-        "imagePath": "images/dishes/staple/麻辣减脂荞麦面.jpeg"
+        "imagePath": "images/dishes/staple/麻辣减脂荞麦面.jpeg",
+        "contentPath": "content/dishes/staple/麻辣减脂荞麦面.md"
       }
     ]
   },
@@ -1719,103 +1991,120 @@
         "id": "tips-厨房准备",
         "name": "厨房准备",
         "category": "tips",
-        "imagePath": "images/dishes/tips/厨房准备.jpeg"
+        "imagePath": "images/dishes/tips/厨房准备.jpeg",
+        "contentPath": "content/dishes/tips/厨房准备.md"
       },
       {
         "id": "tips-去腥",
         "name": "去腥",
         "category": "tips",
-        "imagePath": "images/dishes/tips/去腥.jpeg"
+        "imagePath": "images/dishes/tips/去腥.jpeg",
+        "contentPath": "content/dishes/tips/learn/去腥.md"
       },
       {
         "id": "tips-如何选择现在吃什么",
         "name": "如何选择现在吃什么",
         "category": "tips",
-        "imagePath": "images/dishes/tips/如何选择现在吃什么.jpeg"
+        "imagePath": "images/dishes/tips/如何选择现在吃什么.jpeg",
+        "contentPath": "content/dishes/tips/如何选择现在吃什么.md"
       },
       {
         "id": "tips-学习凉拌",
         "name": "学习凉拌",
         "category": "tips",
-        "imagePath": "images/dishes/tips/学习凉拌.jpeg"
+        "imagePath": "images/dishes/tips/学习凉拌.jpeg",
+        "contentPath": "content/dishes/tips/learn/学习凉拌.md"
       },
       {
         "id": "tips-学习炒与煎",
         "name": "学习炒与煎",
         "category": "tips",
-        "imagePath": "images/dishes/tips/学习炒与煎.jpeg"
+        "imagePath": "images/dishes/tips/学习炒与煎.jpeg",
+        "contentPath": "content/dishes/tips/learn/学习炒与煎.md"
       },
       {
         "id": "tips-学习焯水",
         "name": "学习焯水",
         "category": "tips",
-        "imagePath": "images/dishes/tips/学习焯水.jpeg"
+        "imagePath": "images/dishes/tips/学习焯水.jpeg",
+        "contentPath": "content/dishes/tips/learn/学习焯水.md"
       },
       {
         "id": "tips-学习煮",
         "name": "学习煮",
         "category": "tips",
-        "imagePath": "images/dishes/tips/学习煮.jpeg"
+        "imagePath": "images/dishes/tips/学习煮.jpeg",
+        "contentPath": "content/dishes/tips/learn/学习煮.md"
       },
       {
         "id": "tips-学习腌",
         "name": "学习腌",
         "category": "tips",
-        "imagePath": "images/dishes/tips/学习腌.jpeg"
+        "imagePath": "images/dishes/tips/学习腌.jpeg",
+        "contentPath": "content/dishes/tips/learn/学习腌.md"
       },
       {
         "id": "tips-学习蒸",
         "name": "学习蒸",
         "category": "tips",
-        "imagePath": "images/dishes/tips/学习蒸.jpeg"
+        "imagePath": "images/dishes/tips/学习蒸.jpeg",
+        "contentPath": "content/dishes/tips/learn/学习蒸.md"
       },
       {
         "id": "tips-微波炉",
         "name": "微波炉",
         "category": "tips",
-        "imagePath": "images/dishes/tips/微波炉.jpeg"
+        "imagePath": "images/dishes/tips/微波炉.jpeg",
+        "contentPath": "content/dishes/tips/learn/微波炉.md"
       },
       {
         "id": "tips-油温判断技巧",
         "name": "油温判断技巧",
         "category": "tips",
-        "imagePath": "images/dishes/tips/油温判断技巧.jpeg"
+        "imagePath": "images/dishes/tips/油温判断技巧.jpeg",
+        "contentPath": "content/dishes/tips/advanced/油温判断技巧.md"
       },
       {
         "id": "tips-空气炸锅",
         "name": "空气炸锅",
         "category": "tips",
-        "imagePath": "images/dishes/tips/空气炸锅.jpeg"
+        "imagePath": "images/dishes/tips/空气炸锅.jpeg",
+        "contentPath": "content/dishes/tips/learn/空气炸锅.md"
       },
       {
         "id": "tips-糖色的炒制",
         "name": "糖色的炒制",
         "category": "tips",
-        "imagePath": "images/dishes/tips/糖色的炒制.jpeg"
+        "imagePath": "images/dishes/tips/糖色的炒制.jpeg",
+        "contentPath": "content/dishes/tips/advanced/糖色的炒制.md"
       },
       {
         "id": "tips-辅料技巧",
         "name": "辅料技巧",
         "category": "tips",
-        "imagePath": "images/dishes/tips/辅料技巧.jpeg"
+        "imagePath": "images/dishes/tips/辅料技巧.jpeg",
+        "contentPath": "content/dishes/tips/advanced/辅料技巧.md"
       },
       {
         "id": "tips-食品安全",
         "name": "食品安全",
         "category": "tips",
-        "imagePath": "images/dishes/tips/食品安全.jpeg"
+        "imagePath": "images/dishes/tips/食品安全.jpeg",
+        "contentPath": "content/dishes/tips/learn/食品安全.md"
       },
       {
         "id": "tips-食材相克与禁忌",
         "name": "食材相克与禁忌",
         "category": "tips",
-        "imagePath": "images/dishes/tips/食材相克与禁忌.jpeg"
+        "imagePath": "images/dishes/tips/食材相克与禁忌.jpeg",
+        "contentPath": "content/dishes/tips/食材相克与禁忌.md"
       },
       {
         "id": "tips-高级专业术语",
         "name": "高级专业术语",
         "category": "tips",
-        "imagePath": "images/dishes/tips/高级专业术语.jpeg"
+        "imagePath": "images/dishes/tips/高级专业术语.jpeg",
+        "contentPath": "content/dishes/tips/advanced/高级专业术语.md"
       }
     ]
   },
@@ -1829,325 +2118,379 @@
         "id": "vegetable_dish-上汤娃娃菜",
         "name": "上汤娃娃菜",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/上汤娃娃菜.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/上汤娃娃菜.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md"
       },
       {
         "id": "vegetable_dish-凉拌木耳",
         "name": "凉拌木耳",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/凉拌木耳.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/凉拌木耳.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/凉拌木耳/凉拌木耳.md"
       },
       {
         "id": "vegetable_dish-凉拌油麦菜",
         "name": "凉拌油麦菜",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/凉拌油麦菜.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/凉拌油麦菜.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/凉拌油麦菜.md"
       },
       {
         "id": "vegetable_dish-凉拌莴笋",
         "name": "凉拌莴笋",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/凉拌莴笋.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/凉拌莴笋.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md"
       },
       {
         "id": "vegetable_dish-凉拌豆腐",
         "name": "凉拌豆腐",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/凉拌豆腐.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/凉拌豆腐.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/凉拌豆腐.md"
       },
       {
         "id": "vegetable_dish-凉拌金针菇",
         "name": "凉拌金针菇",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/凉拌金针菇.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/凉拌金针菇.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/凉拌金针菇.md"
       },
       {
         "id": "vegetable_dish-凉拌黄瓜",
         "name": "凉拌黄瓜",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/凉拌黄瓜.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/凉拌黄瓜.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/凉拌黄瓜.md"
       },
       {
         "id": "vegetable_dish-包菜炒鸡蛋粉丝",
         "name": "包菜炒鸡蛋粉丝",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/包菜炒鸡蛋粉丝.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/包菜炒鸡蛋粉丝.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md"
       },
       {
         "id": "vegetable_dish-地三鲜",
         "name": "地三鲜",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/地三鲜.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/地三鲜.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/地三鲜.md"
       },
       {
         "id": "vegetable_dish-家常凉菜",
         "name": "家常凉菜",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/家常凉菜.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/家常凉菜.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/家常凉菜.md"
       },
       {
         "id": "vegetable_dish-家常日本豆腐",
         "name": "家常日本豆腐",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/家常日本豆腐.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/家常日本豆腐.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/家常日本豆腐.md"
       },
       {
         "id": "vegetable_dish-小炒藕丁",
         "name": "小炒藕丁",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/小炒藕丁.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/小炒藕丁.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/小炒藕丁/小炒藕丁.md"
       },
       {
         "id": "vegetable_dish-干锅花菜",
         "name": "干锅花菜",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/干锅花菜.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/干锅花菜.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/干锅花菜/干锅花菜.md"
       },
       {
         "id": "vegetable_dish-微波炉鸡蛋羹",
         "name": "微波炉鸡蛋羹",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/微波炉鸡蛋羹.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/微波炉鸡蛋羹.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md"
       },
       {
         "id": "vegetable_dish-拔丝土豆",
         "name": "拔丝土豆",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/拔丝土豆.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/拔丝土豆.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/拔丝土豆/拔丝土豆.md"
       },
       {
         "id": "vegetable_dish-椒盐玉米",
         "name": "椒盐玉米",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/椒盐玉米.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/椒盐玉米.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/椒盐玉米/椒盐玉米.md"
       },
       {
         "id": "vegetable_dish-榄菜肉末四季豆",
         "name": "榄菜肉末四季豆",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/榄菜肉末四季豆.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/榄菜肉末四季豆.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md"
       },
       {
         "id": "vegetable_dish-水油焖蔬菜",
         "name": "水油焖蔬菜",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/水油焖蔬菜.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/水油焖蔬菜.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/水油焖蔬菜.md"
       },
       {
         "id": "vegetable_dish-油醋爆蛋",
         "name": "油醋爆蛋",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/油醋爆蛋.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/油醋爆蛋.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/油醋爆蛋.md"
       },
       {
         "id": "vegetable_dish-洋葱炒鸡蛋",
         "name": "洋葱炒鸡蛋",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/洋葱炒鸡蛋.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/洋葱炒鸡蛋.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md"
       },
       {
         "id": "vegetable_dish-清炒花菜",
         "name": "清炒花菜",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/清炒花菜.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/清炒花菜.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/清炒花菜.md"
       },
       {
         "id": "vegetable_dish-清蒸南瓜",
         "name": "清蒸南瓜",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/清蒸南瓜.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/清蒸南瓜.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/清蒸南瓜.md"
       },
       {
         "id": "vegetable_dish-炒滑蛋",
         "name": "炒滑蛋",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/炒滑蛋.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/炒滑蛋.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/炒滑蛋/炒滑蛋.md"
       },
       {
         "id": "vegetable_dish-炒青菜",
         "name": "炒青菜",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/炒青菜.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/炒青菜.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/炒青菜.md"
       },
       {
         "id": "vegetable_dish-烤茄子",
         "name": "烤茄子",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/烤茄子.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/烤茄子.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/烤茄子/烤茄子.md"
       },
       {
         "id": "vegetable_dish-白灼菜心",
         "name": "白灼菜心",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/白灼菜心.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/白灼菜心.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/白灼菜心/白灼菜心.md"
       },
       {
         "id": "vegetable_dish-皮蛋豆腐",
         "name": "皮蛋豆腐",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/皮蛋豆腐.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/皮蛋豆腐.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/皮蛋豆腐.md"
       },
       {
         "id": "vegetable_dish-糖拌西红柿",
         "name": "糖拌西红柿",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/糖拌西红柿.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/糖拌西红柿.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md"
       },
       {
         "id": "vegetable_dish-素炒豆角",
         "name": "素炒豆角",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/素炒豆角.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/素炒豆角.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/素炒豆角.md"
       },
       {
         "id": "vegetable_dish-红烧冬瓜",
         "name": "红烧冬瓜",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/红烧冬瓜.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/红烧冬瓜.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md"
       },
       {
         "id": "vegetable_dish-红烧茄子",
         "name": "红烧茄子",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/红烧茄子.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/红烧茄子.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/红烧茄子.md"
       },
       {
         "id": "vegetable_dish-芹菜拌茶树菇",
         "name": "芹菜拌茶树菇",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/芹菜拌茶树菇.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/芹菜拌茶树菇.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md"
       },
       {
         "id": "vegetable_dish-茄子炖土豆",
         "name": "茄子炖土豆",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/茄子炖土豆.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/茄子炖土豆.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/茄子炖土豆.md"
       },
       {
         "id": "vegetable_dish-莴笋叶煎饼",
         "name": "莴笋叶煎饼",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/莴笋叶煎饼.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/莴笋叶煎饼.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md"
       },
       {
         "id": "vegetable_dish-菠菜炒鸡蛋",
         "name": "菠菜炒鸡蛋",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/菠菜炒鸡蛋.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/菠菜炒鸡蛋.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md"
       },
       {
         "id": "vegetable_dish-葱煎豆腐",
         "name": "葱煎豆腐",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/葱煎豆腐.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/葱煎豆腐.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/葱煎豆腐.md"
       },
       {
         "id": "vegetable_dish-蒜蓉空心菜",
         "name": "蒜蓉空心菜",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/蒜蓉空心菜.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/蒜蓉空心菜.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md"
       },
       {
         "id": "vegetable_dish-蒜蓉西兰花",
         "name": "蒜蓉西兰花",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/蒜蓉西兰花.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/蒜蓉西兰花.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/蒜蓉西兰花.md"
       },
       {
         "id": "vegetable_dish-蒲烧茄子",
         "name": "蒲烧茄子",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/蒲烧茄子.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/蒲烧茄子.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/蒲烧茄子.md"
       },
       {
         "id": "vegetable_dish-蒸箱鸡蛋羹",
         "name": "蒸箱鸡蛋羹",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/蒸箱鸡蛋羹.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/蒸箱鸡蛋羹.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md"
       },
       {
         "id": "vegetable_dish-虎皮青椒",
         "name": "虎皮青椒",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/虎皮青椒.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/虎皮青椒.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/虎皮青椒/虎皮青椒.md"
       },
       {
         "id": "vegetable_dish-蚝油三鲜菇",
         "name": "蚝油三鲜菇",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/蚝油三鲜菇.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/蚝油三鲜菇.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md"
       },
       {
         "id": "vegetable_dish-蚝油生菜",
         "name": "蚝油生菜",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/蚝油生菜.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/蚝油生菜.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/蚝油生菜.md"
       },
       {
         "id": "vegetable_dish-西红柿炒鸡蛋",
         "name": "西红柿炒鸡蛋",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/西红柿炒鸡蛋.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/西红柿炒鸡蛋.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/西红柿炒鸡蛋.md"
       },
       {
         "id": "vegetable_dish-西葫芦炒鸡蛋",
         "name": "西葫芦炒鸡蛋",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/西葫芦炒鸡蛋.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/西葫芦炒鸡蛋.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md"
       },
       {
         "id": "vegetable_dish-话梅煮毛豆",
         "name": "话梅煮毛豆",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/话梅煮毛豆.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/话梅煮毛豆.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/话梅煮毛豆/话梅煮毛豆.md"
       },
       {
         "id": "vegetable_dish-酸辣土豆丝",
         "name": "酸辣土豆丝",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/酸辣土豆丝.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/酸辣土豆丝.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/酸辣土豆丝.md"
       },
       {
         "id": "vegetable_dish-金针菇日本豆腐煲",
         "name": "金针菇日本豆腐煲",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/金针菇日本豆腐煲.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/金针菇日本豆腐煲.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/金针菇日本豆腐煲.md"
       },
       {
         "id": "vegetable_dish-金钱蛋",
         "name": "金钱蛋",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/金钱蛋.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/金钱蛋.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/金钱蛋.md"
       },
       {
         "id": "vegetable_dish-陕北熬豆角",
         "name": "陕北熬豆角",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/陕北熬豆角.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/陕北熬豆角.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/陕北熬豆角.md"
       },
       {
         "id": "vegetable_dish-雷椒皮蛋",
         "name": "雷椒皮蛋",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/雷椒皮蛋.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/雷椒皮蛋.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/雷椒皮蛋.md"
       },
       {
         "id": "vegetable_dish-鸡蛋火腿炒黄瓜",
         "name": "鸡蛋火腿炒黄瓜",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/鸡蛋火腿炒黄瓜.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/鸡蛋火腿炒黄瓜.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md"
       },
       {
         "id": "vegetable_dish-鸡蛋羹",
         "name": "鸡蛋羹",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/鸡蛋羹.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/鸡蛋羹.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md"
       },
       {
         "id": "vegetable_dish-鸡蛋花",
         "name": "鸡蛋花",
         "category": "vegetable_dish",
-        "imagePath": "images/dishes/vegetable_dish/鸡蛋花.jpeg"
+        "imagePath": "images/dishes/vegetable_dish/鸡蛋花.jpeg",
+        "contentPath": "content/dishes/vegetable_dish/鸡蛋花/鸡蛋花.md"
       }
     ]
   }

@@ -3,6 +3,7 @@ export interface Recipe {
   name: string;
   category: string;
   imagePath: string;
+  contentPath?: string;
 }
 
 export interface Category {
