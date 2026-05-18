@@ -3,7 +3,7 @@
     "id": "aquatic",
     "name": "aquatic",
     "displayName": "水产",
-    "count": 25,
+    "count": 26,
     "recipes": [
       {
         "id": "aquatic-咖喱炒蟹",
@@ -58,6 +58,12 @@
         "name": "烤鱼",
         "category": "aquatic",
         "imagePath": "images/dishes/aquatic/烤鱼.jpeg"
+      },
+      {
+        "id": "aquatic-焗大虾",
+        "name": "焗大虾",
+        "category": "aquatic",
+        "imagePath": "images/dishes/aquatic/焗大虾.jpeg"
       },
       {
         "id": "aquatic-白灼虾",
@@ -369,7 +375,7 @@
     "id": "dessert",
     "name": "dessert",
     "displayName": "甜品",
-    "count": 16,
+    "count": 17,
     "recipes": [
       {
         "id": "dessert-反沙芋头",
@@ -430,6 +436,12 @@
         "name": "玛格丽特饼干",
         "category": "dessert",
         "imagePath": "images/dishes/dessert/玛格丽特饼干.jpeg"
+      },
+      {
+        "id": "dessert-电饭锅蛋糕",
+        "name": "电饭锅蛋糕",
+        "category": "dessert",
+        "imagePath": "images/dishes/dessert/电饭锅蛋糕.jpeg"
       },
       {
         "id": "dessert-红柚蛋糕",
@@ -1811,7 +1823,7 @@
     "id": "vegetable_dish",
     "name": "vegetable_dish",
     "displayName": "素菜",
-    "count": 53,
+    "count": 54,
     "recipes": [
       {
         "id": "vegetable_dish-上汤娃娃菜",
@@ -1866,6 +1878,12 @@
         "name": "地三鲜",
         "category": "vegetable_dish",
         "imagePath": "images/dishes/vegetable_dish/地三鲜.jpeg"
+      },
+      {
+        "id": "vegetable_dish-家常凉菜",
+        "name": "家常凉菜",
+        "category": "vegetable_dish",
+        "imagePath": "images/dishes/vegetable_dish/家常凉菜.jpeg"
       },
       {
         "id": "vegetable_dish-家常日本豆腐",
